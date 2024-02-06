@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://" target="_blank">Aleks</a> 
+<h1 align="center">Hi there, I'm <a href="https://junioranalyst.online/" target="_blank">Aleks</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Junior data analyst from Georgia</h3>
 
 <!--
 **aleks-mels/aleks-mels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
