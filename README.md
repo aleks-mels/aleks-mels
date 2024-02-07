@@ -7,7 +7,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleks-mels&layout=compact)](https://github.com/aleks-mels/github-readme-stats)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=user1684fH&theme=dark)](https://github.com/user1684fH/leetcode-stats)
 [![codewars](https://www.codewars.com/users/aleks-mels/badges/large)](https://www.codewars.com/users/aleks-mels) 
-![](https://komarev.com/ghpvc/?username=aleks-mels)
+<p align="center">[![](https://komarev.com/ghpvc/?username=aleks-mels)</p>
+
 
 <!--
 **aleks-mels/aleks-mels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
