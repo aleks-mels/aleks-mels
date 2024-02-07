@@ -4,6 +4,8 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aleks-mels&theme=algolia)](https://github.com/aleks-mels/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleks-mels&layout=compact)](https://github.com/aleks-mels/github-readme-stats)
 <!--
 **aleks-mels/aleks-mels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
