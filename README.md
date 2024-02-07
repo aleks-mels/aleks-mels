@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior data analyst from Georgia</h3>
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aleks-mels)](https://github.com/aleks-mels/github-profile-trophy)
 <!--
 **aleks-mels/aleks-mels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
