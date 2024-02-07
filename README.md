@@ -9,7 +9,23 @@
 [![codewars](https://www.codewars.com/users/aleks-mels/badges/large)](https://www.codewars.com/users/aleks-mels) 
 ![](https://komarev.com/ghpvc/?username=aleks-mels)
 
+<!--START_SECTION:badges-->
+name: Update badges
 
+on:
+  schedule:
+    # Runs at 2am UTC
+    - cron: "0 2 * * *"
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:       
+          CREDLY_USER: <aleksandra-melikhova.12cf2a1a> # optional, but default will use the same from github
+<!--END_SECTION:badges-->
 <!--
 **aleks-mels/aleks-mels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
