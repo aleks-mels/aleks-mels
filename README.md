@@ -1,6 +1,31 @@
 <h1 align="center">Hi there, I'm <a href="https://junioranalyst.online/" target="_blank">Aleks</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior data analyst from Georgia</h3>
+
+👩‍💻 I’m learning data analytics from scratch.  
+📍 Based in Georgia (originally from Russia).  
+📊 Interested in SQL, spreadsheets, dashboards, and practical analytics.  
+🎯 My goal: land my first job as a data analyst within 6 months.
+
+This GitHub is my open notebook.  
+Here I’ll share:
+- 🧠 Practice tasks (SQL, Sheets)
+- 📁 Simple data projects
+- 🛠️ My learning notes and progress
+
+I use:
+- ChatGPT as my mentor
+- Google Sheets for fast prototyping
+- GitHub to stay accountable
+
+**Current focus:**  
+→ SQL fundamentals  
+→ Google Sheets + Excel  
+→ Daily practice + habit building
+
+---
+
+Feel free to check my work.  
+If you're on a similar journey — you're not alone. Let’s build it brick by brick.
 
 [![codewars](https://www.codewars.com/users/aleks-mels/badges/large)](https://www.codewars.com/users/aleks-mels) 
 ![](https://komarev.com/ghpvc/?username=aleks-mels)
