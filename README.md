@@ -105,7 +105,7 @@ QA инженер с техническим и педагогическим бэ
 
   <img src="https://img.icons8.com/color/48/console.png" title="Bash" width="48" height="48" />
 
-  <img src="https://img.icons8.com/material-outlined/48/github.png" title="GitHub" width="48" height="48" />
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" title="GitHub" width="48" height="48" />
 
   <img src="https://img.icons8.com/color/48/lambda.png" title="LambdaTest" width="48" height="48" />
 
@@ -121,7 +121,7 @@ QA инженер с техническим и педагогическим бэ
 
   <img src="https://img.icons8.com/color/48/confluence.png" title="Confluence" width="48" height="48" />
 
-  <img src="https://img.icons8.com/color/48/miro.png" title="Miro" width="48" height="48" />
+  <img src="https://logosandtypes.com/wp-content/uploads/2022/04/miro.svg" title="Miro" width="48" height="48" />
 
 </p>
 
