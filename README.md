@@ -61,12 +61,15 @@ QA инженер с техническим и педагогическим бэ
 
 ## Backend / API / Tools
 <p align="left">
-  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="Postman" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/python.png" title="Python" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML" width="48" height="48" />
+  
   <img src="https://github.com/user-attachments/assets/6c4d9fd1-2c18-4a93-ac94-077909307b89" title="Swagger / OpenAPI" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/json.png" title="JSON" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/api.png" title="HTTP" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/python.png" title="Python" width="48" height="48" />
+
+  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="Postman" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/lambda.png" title="LambdaTest" width="48" height="48" />
 </p>
 
 ## Databases
@@ -82,7 +85,6 @@ QA инженер с техническим и педагогическим бэ
   <img src="https://img.icons8.com/color/48/ubuntu--v1.png" title="Ubuntu" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/console.png" title="Bash" width="48" height="48" />
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" title="GitHub" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/lambda.png" title="LambdaTest" width="48" height="48" />
 </p>
 
 ## QA / Automation / Testing Tools
