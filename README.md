@@ -34,14 +34,14 @@ QA инженер с техническим и педагогическим бэ
 <p align="center">
 
   <!-- LinkedIn -->
-  <a href="YOUR_LINKEDIN_URL" title="LinkedIn" target="_blank">
+  <a href="YOUR_LINKEDIN_URL" title="Резюме LinkedIn" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png"
          width="48" height="48" alt="Резюме LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- HeadHunter -->
-  <a href="YOUR_HH_URL" title="HeadHunter" target="_blank">
+  <a href="YOUR_HH_URL" title="Резюме LinkedIn" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
          width="48" height="48" alt="Резюме HeadHunter">
   </a>
@@ -65,77 +65,79 @@ QA инженер с техническим и педагогическим бэ
 <p align="left">
 
   <a title="Postman">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="48" height="48">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48">
   </a>
   &nbsp;
 
   <a title="Swagger / OpenAPI">
-    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-256x256-2v4y3m8x.png" width="48" height="48">
+    <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="48" height="48">
   </a>
   &nbsp;
 
   <a title="JSON">
-    <img src="https://img.icons8.com/color/48/json.png" width="48" height="48">
+    <img src="https://www.svgrepo.com/show/373446/json.svg" width="48" height="48">
   </a>
   &nbsp;
 
   <a title="HTTP">
-    <img src="https://img.icons8.com/fluency/48/api.png" width="48" height="48">
+    <img src="https://www.svgrepo.com/show/373924/api.svg" width="48" height="48">
   </a>
   &nbsp;
 
   <a title="HTML">
-    <img src="https://img.icons8.com/color/48/html-5--v1.png" width="48" height="48">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="48" height="48">
   </a>
   &nbsp;
 
   <a title="Python">
-    <img src="https://img.icons8.com/color/48/python--v1.png" width="48" height="48">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48">
   </a>
 
 </p>
+
 
 
 ## Databases
 <p align="left">
 
   <a title="PostgreSQL">
-    <img src="https://img.icons8.com/color/48/postgreesql.png" width="48" height="48">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48">
   </a>
   &nbsp;
 
   <a title="MySQL">
-    <img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="48" height="48">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" height="48">
   </a>
   &nbsp;
 
   <a title="SQLite">
-    <img src="https://img.icons8.com/ios-filled/50/sql.png" width="48" height="48">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48">
   </a>
 
 </p>
+
 
 
 ## DevOps / Infrastructure
 <p align="left">
 
   <a title="Linux">
-    <img src="https://img.icons8.com/color/48/linux--v1.png" width="48" height="48">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="48" height="48">
   </a>
   &nbsp;
 
   <a title="Ubuntu">
-    <img src="https://img.icons8.com/color/48/ubuntu--v1.png" width="48" height="48">
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="48" height="48">
   </a>
   &nbsp;
 
   <a title="Bash">
-    <img src="https://img.icons8.com/fluency/48/console.png" width="48" height="48">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48">
   </a>
   &nbsp;
 
   <a title="GitHub">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="48" height="48">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="48" height="48">
   </a>
   &nbsp;
 
@@ -146,24 +148,26 @@ QA инженер с техническим и педагогическим бэ
 </p>
 
 
+
 ## QA / Automation / Testing Tools
 <p align="left">
 
   <a title="Jira">
-    <img src="https://img.icons8.com/color/48/jira.png" width="48" height="48">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="48" height="48">
   </a>
   &nbsp;
 
   <a title="Confluence">
-    <img src="https://img.icons8.com/color/48/confluence--v1.png" width="48" height="48">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" width="48" height="48">
   </a>
   &nbsp;
 
   <a title="Miro">
-    <img src="https://img.icons8.com/color/48/miro.png" width="48" height="48">
+    <img src="https://static-00.iconduck.com/assets.00/miro-icon-466x512-2suj2n1w.png" width="48" height="48">
   </a>
 
 </p>
+
 
 
 ---
