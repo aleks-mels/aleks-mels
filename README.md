@@ -114,7 +114,12 @@ QA инженер с техническим и педагогическим бэ
 
 # Пройденные курсы
 
-Ссылка на репозиторий со списком курсов
+<p align="left">
+  <a href="https://github.com/aleks-mels/QA-courses-ru" target="_blank">
+    <img src="https://img.shields.io/badge/Open_Courses-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
