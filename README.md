@@ -10,7 +10,11 @@
 
 # QA инженер
 
-Краткое описание.
+QA инженер с техническим и педагогическим бэкграундом. По образованию — учитель истории и педагог-дефектолог. В профессиональном опыте был и техническая поддержка, и работа в образовательной сфере, а также участие в стартапе (3D-печать). Такой путь сформировал устойчивое техническое мышление, умение быстро разбираться в новых системах и смотреть на продукт одновременно глазами пользователя и специалиста.
+
+В тестировании интерес сосредоточен на исследовательском и приёмочном подходах: разборе логики веб-сервисов, проверке API, работе с данными и подготовке понятной тестовой документации. Такой формат позволяет глубже понимать продукт, находить нестандартные сценарии и повышать качество там, где это действительно важно.
+
+Следующая цель - выстроить сильную экспертизу в ручном тестировании и постепенно перейти к автоматизации в течение ближайшего года, развивая технический стек и подход к качеству как системной работе.
 
 **Контакты:**  
 - Upwork:  
@@ -69,7 +73,11 @@
 
 # QA Engineer
 
-Short description.
+A QA Engineer with both technical and pedagogical background. Formally educated as a history teacher and special education pedagogue, with professional experience that includes technical support, work in the educational field, and participation in a 3D-printing startup. This combination shaped strong analytical thinking, the ability to quickly understand new systems, and a balanced perspective that considers both the user’s experience and the technical logic behind a product.
+
+In testing, the main focus is on exploratory and acceptance testing: analyzing the behavior of web services, validating APIs, working with data, and preparing clear, structured test documentation. This approach helps to understand the product more deeply, identify edge cases, and improve quality where it matters most.
+
+The next goal is to build solid expertise in manual testing and gradually transition into test automation within the next year, expanding the technical stack and strengthening a systematic approach to product quality.
 
 **Contacts:**  
 - Upwork:  
