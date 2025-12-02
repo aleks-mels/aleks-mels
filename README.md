@@ -16,13 +16,12 @@ QA инженер с техническим и педагогическим бэ
 
 Следующая цель - выстроить сильную экспертизу в ручном тестировании и постепенно перейти к автоматизации в течение ближайшего года, развивая технический стек и подход к качеству как системной работе.
 
-**Контакты:**  
-<p align="left">
-  <a href="YOUR_UPWORK_URL" target="_blank">
+<p align="center">
+  <a href="[YOUR_UPWORK_URL](https://www.upwork.com/freelancers/ormviking)" target="_blank">
     <img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=Upwork&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ormviking/)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
@@ -86,10 +85,15 @@ A QA Engineer with both technical and pedagogical background. Formally educated 
 In testing, the main focus is on exploratory and acceptance testing: analyzing the behavior of web services, validating APIs, working with data, and preparing clear, structured test documentation. This approach helps to understand the product more deeply, identify edge cases, and improve quality where it matters most.
 
 The next goal is to build solid expertise in manual testing and gradually transition into test automation within the next year, expanding the technical stack and strengthening a systematic approach to product quality.
-
-**Contacts:**  
-- Upwork:  
-- LinkedIn:  
+<p align="center">
+  <a href="[YOUR_UPWORK_URL](https://www.upwork.com/freelancers/ormviking)" target="_blank">
+    <img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=Upwork&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ormviking/)" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white" />
+  </a>
+</p>
 
 ---
 
