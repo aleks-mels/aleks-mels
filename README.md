@@ -31,32 +31,25 @@ QA инженер с техническим и педагогическим бэ
 
 # Резюме
 
-<p align="left">
+<p align="center">
 
   <!-- LinkedIn -->
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+  <a href="YOUR_LINKEDIN_URL" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="48" height="48" alt="LinkedIn"/><br>
+    <sub>LinkedIn</sub>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- HeadHunter -->
-  <a href="YOUR_HH_URL" target="_blank">
-    <img src="https://img.icons8.com/color/48/headhunter.png" width="40" height="40" alt="HeadHunter"/>
+  <!-- HeadHunter (кастомная круглая иконка, рабочая) -->
+  <a href="YOUR_HH_URL" target="_blank" style="text-decoration:none;">
+    <img src="https://i.imgur.com/SJ0X9Qm.png" width="48" height="48" alt="HeadHunter"/><br>
+    <sub>HeadHunter</sub>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- RU Resume (Google Drive) -->
-  <a href="YOUR_RU_RESUME_DRIVE_URL" target="_blank">
-    <img src="https://img.icons8.com/color/48/google-drive--v2.png" width="40" height="40" alt="RU Resume"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- EN Resume (Google Drive) -->
-  <a href="YOUR_EN_RESUME_DRIVE_URL" target="_blank">
-    <img src="https://img.icons8.com/color/48/google-drive--v2.png" width="40" height="40" alt="EN Resume"/>
-  </a>
-
-</p>
+  <!-- Resume RU -->
+  <a href="YOUR_RU_RESUME_DRIVE_URL" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/google-drive--v2.png" wid
 
 
 ---
