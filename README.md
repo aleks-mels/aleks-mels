@@ -36,14 +36,14 @@ QA инженер с техническим и педагогическим бэ
   <!-- LinkedIn -->
   <a href="YOUR_LINKEDIN_URL" title="LinkedIn" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png"
-         width="48" height="48" alt="LinkedIn">
+         width="48" height="48" alt="Резюме LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- HeadHunter -->
   <a href="YOUR_HH_URL" title="HeadHunter" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
-         width="48" height="48" alt="HeadHunter">
+         width="48" height="48" alt="Резюме HeadHunter">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -119,11 +119,30 @@ The next goal is to build solid expertise in manual testing and gradually transi
 
 # Resume
 
-Resume links:  
-- LinkedIn:  
-- HeadHunter:  
-- Resume (RU, Google Drive):  
-- Resume (EN, Google Drive):  
+
+<p align="center">
+
+  <!-- LinkedIn -->
+  <a href="YOUR_LINKEDIN_URL" title="LinkedIn" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"
+         width="48" height="48" alt="Резюме LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- HeadHunter -->
+  <a href="YOUR_HH_URL" title="HeadHunter" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
+         width="48" height="48" alt="Резюме HeadHunter">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- RU Resume (Google Drive) -->
+  <a href="YOUR_RU_RESUME_DRIVE_URL" title="Резюме (RU)" target="_blank">
+    <img src="https://img.icons8.com/color/48/google-drive--v2.png"
+         width="48" height="48" alt="Резюме (RU)">
+  </a>
+
+</p>
 
 ---
 
