@@ -31,11 +31,33 @@ QA инженер с техническим и педагогическим бэ
 
 # Резюме
 
-Ссылки на резюме:  
-- LinkedIn:  
-- HeadHunter:  
-- Резюме (RU, Google Drive):  
-- Resume (EN, Google Drive):  
+<p align="left">
+
+  <!-- LinkedIn -->
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- HeadHunter -->
+  <a href="YOUR_HH_URL" target="_blank">
+    <img src="https://img.icons8.com/color/48/headhunter.png" width="40" height="40" alt="HeadHunter"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- RU Resume (Google Drive) -->
+  <a href="YOUR_RU_RESUME_DRIVE_URL" target="_blank">
+    <img src="https://img.icons8.com/color/48/google-drive--v2.png" width="40" height="40" alt="RU Resume"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- EN Resume (Google Drive) -->
+  <a href="YOUR_EN_RESUME_DRIVE_URL" target="_blank">
+    <img src="https://img.icons8.com/color/48/google-drive--v2.png" width="40" height="40" alt="EN Resume"/>
+  </a>
+
+</p>
+
 
 ---
 
