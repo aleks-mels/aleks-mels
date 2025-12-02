@@ -17,11 +17,11 @@ QA инженер с техническим и педагогическим бэ
 Следующая цель - выстроить сильную экспертизу в ручном тестировании и постепенно перейти к автоматизации в течение ближайшего года, развивая технический стек и подход к качеству как системной работе.
 
 <p align="center">
-  <a href="[YOUR_UPWORK_URL](https://www.upwork.com/freelancers/ormviking)" target="_blank">
+  <a href="https://www.upwork.com/freelancers/ormviking" target="_blank">
     <img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=Upwork&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ormviking/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ormviking/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
@@ -86,11 +86,11 @@ In testing, the main focus is on exploratory and acceptance testing: analyzing t
 
 The next goal is to build solid expertise in manual testing and gradually transition into test automation within the next year, expanding the technical stack and strengthening a systematic approach to product quality.
 <p align="center">
-  <a href="[YOUR_UPWORK_URL](https://www.upwork.com/freelancers/ormviking)" target="_blank">
+  <a href="https://www.upwork.com/freelancers/ormviking" target="_blank">
     <img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=Upwork&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ormviking/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ormviking/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
