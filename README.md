@@ -31,29 +31,22 @@ QA инженер с техническим и педагогическим бэ
 
 # Резюме
 
-<p align="center">
-
-  <!-- LinkedIn -->
-  <a href="YOUR_LINKEDIN_URL" title="Резюме LinkedIn" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png"
-         width="48" height="48" alt="Резюме LinkedIn">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- HeadHunter -->
-  <a href="YOUR_HH_URL" title="Резюме LinkedIn" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
-         width="48" height="48" alt="Резюме HeadHunter">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- RU Resume (Google Drive) -->
-  <a href="YOUR_RU_RESUME_DRIVE_URL" title="Резюме (RU)" target="_blank">
-    <img src="https://img.icons8.com/color/48/google-drive--v2.png"
-         width="48" height="48" alt="Резюме (RU)">
-  </a>
-
+<p align="left">
+  <img src="assets/icons/postman.png"   alt="Postman"   title="Postman"   width="40" height="40" />
+  &nbsp;
+  <img src="assets/icons/swagger.png"   alt="Swagger"   title="Swagger / OpenAPI" width="40" height="40" />
+  &nbsp;
+  <img src="assets/icons/json.png"      alt="JSON"      title="JSON"      width="40" height="40" />
+  &nbsp;
+  <img src="assets/icons/http.png"      alt="HTTP"      title="HTTP / REST" width="40" height="40" />
+  &nbsp;
+  <img src="assets/icons/html5.png"     alt="HTML"      title="HTML"      width="40" height="40" />
+  &nbsp;
+  <img src="assets/icons/python.png"    alt="Python"    title="Python"    width="40" height="40" />
+  &nbsp;
+  <img src="assets/icons/postman.png"   alt="Postman"   title="Postman"   width="40" height="40" />
 </p>
+
 
 
 
