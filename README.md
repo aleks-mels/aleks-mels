@@ -31,21 +31,30 @@ QA инженер с техническим и педагогическим бэ
 
 # Резюме
 
-<p align="left">
+<p align="center">
 
-  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="Postman" width="48" height="48" />
+  <!-- LinkedIn -->
+  <a href="YOUR_LINKEDIN_URL" title="LinkedIn" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"
+         width="48" height="48" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://img.icons8.com/color/48/swagger.png" title="Swagger / OpenAPI" width="48" height="48" />
+  <!-- HeadHunter -->
+  <a href="YOUR_HH_URL" title="HeadHunter" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
+         width="48" height="48" alt="HeadHunter">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://img.icons8.com/color/48/json.png" title="JSON" width="48" height="48" />
-
-  <img src="https://img.icons8.com/color/48/api.png" title="HTTP" width="48" height="48" />
-
-  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML" width="48" height="48" />
-
-  <img src="https://img.icons8.com/color/48/python.png" title="Python" width="48" height="48" />
+  <!-- RU Resume (Google Drive) -->
+  <a href="YOUR_RU_RESUME_DRIVE_URL" title="Резюме (RU)" target="_blank">
+    <img src="https://img.icons8.com/color/48/google-drive--v2.png"
+         width="48" height="48" alt="Резюме (RU)">
+  </a>
 
 </p>
+
 
 
 
@@ -57,34 +66,17 @@ QA инженер с техническим и педагогическим бэ
 ## Backend / API / Tools
 <p align="left">
 
-  <abbr title="Postman">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" width="48" height="48">
-  </abbr>
-  &nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-logo.png" title="Postman" width="48" height="48" />
 
-  <abbr title="Swagger / OpenAPI">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/swagger.svg" width="48" height="48">
-  </abbr>
-  &nbsp;
+  <img src="https://img.icons8.com/color/48/swagger.png" title="Swagger / OpenAPI" width="48" height="48" />
 
-  <abbr title="JSON">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/json.svg" width="48" height="48">
-  </abbr>
-  &nbsp;
+  <img src="https://img.icons8.com/color/48/json.png" title="JSON" width="48" height="48" />
 
-  <abbr title="HTTP">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/w3c.svg" width="48" height="48">
-  </abbr>
-  &nbsp;
+  <img src="https://img.icons8.com/color/48/api.png" title="HTTP" width="48" height="48" />
 
-  <abbr title="HTML">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="48" height="48">
-  </abbr>
-  &nbsp;
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML" width="48" height="48" />
 
-  <abbr title="Python">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="48" height="48">
-  </abbr>
+  <img src="https://img.icons8.com/color/48/python.png" title="Python" width="48" height="48" />
 
 </p>
 
