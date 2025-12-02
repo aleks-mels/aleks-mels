@@ -246,7 +246,11 @@ The next goal is to build solid expertise in manual testing and gradually transi
 
 # Completed Courses
 
-Link to the courses repository
+<p align="left">
+  <a href="https://github.com/aleks-mels/QA-courses-en" target="_blank">
+    <img src="https://img.shields.io/badge/Open_Courses-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
 
 ---
 
