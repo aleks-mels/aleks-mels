@@ -1,8 +1,4 @@
 <p align="center">
-  <a href="#qa-инженер">
-    <img src="https://img.shields.io/badge/🇷🇺 Русский-blue?style=for-the-badge">
-  </a>
-  &nbsp;&nbsp;
   <a href="#qa-engineer">
     <img src="https://img.shields.io/badge/🇬🇧 English-blue?style=for-the-badge">
   </a>
@@ -275,4 +271,9 @@ The next goal is to build solid expertise in manual testing and gradually transi
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
   </a>
 
+</p>
+<p align="center">
+  <a href="#qa-инженер">
+    <img src="https://img.shields.io/badge/🇷🇺 Русский-blue?style=for-the-badge">
+  </a>
 </p>
