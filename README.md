@@ -64,36 +64,37 @@ QA инженер с техническим и педагогическим бэ
 ## Backend / API / Tools
 <p align="left">
 
-  <a title="Postman">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48">
-  </a>
+  <abbr title="Postman">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" width="48" height="48">
+  </abbr>
   &nbsp;
 
-  <a title="Swagger / OpenAPI">
-    <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="48" height="48">
-  </a>
+  <abbr title="Swagger / OpenAPI">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/swagger.svg" width="48" height="48">
+  </abbr>
   &nbsp;
 
-  <a title="JSON">
-    <img src="https://www.svgrepo.com/show/373446/json.svg" width="48" height="48">
-  </a>
+  <abbr title="JSON">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/json.svg" width="48" height="48">
+  </abbr>
   &nbsp;
 
-  <a title="HTTP">
-    <img src="https://www.svgrepo.com/show/373924/api.svg" width="48" height="48">
-  </a>
+  <abbr title="HTTP">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/w3c.svg" width="48" height="48">
+  </abbr>
   &nbsp;
 
-  <a title="HTML">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="48" height="48">
-  </a>
+  <abbr title="HTML">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="48" height="48">
+  </abbr>
   &nbsp;
 
-  <a title="Python">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48">
-  </a>
+  <abbr title="Python">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="48" height="48">
+  </abbr>
 
 </p>
+
 
 
 
