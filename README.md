@@ -69,4 +69,59 @@
 
 # QA Engineer
 
-Sho
+Short description.
+
+**Contacts:**  
+- Upwork:  
+- LinkedIn:  
+
+---
+
+# Resume
+
+Resume links:  
+- LinkedIn:  
+- HeadHunter:  
+- Resume (RU, Google Drive):  
+- Resume (EN, Google Drive):  
+
+---
+
+# Tech Stack & Tools
+
+## Backend / API / Tools
+(tool icons)
+
+## Databases
+(tool icons)
+
+## DevOps / Infrastructure
+(tool icons)
+
+## QA / Automation / Testing Tools
+(tool icons)
+
+## Other
+(tool icons)
+
+---
+
+# Portfolio
+
+Link to the portfolio repository
+
+---
+
+# Completed Courses
+
+Link to the courses repository
+
+---
+
+# Contacts
+
+- Email:  
+- Telegram:  
+- LinkedIn:  
+- Upwork:  
+- GitHub:
