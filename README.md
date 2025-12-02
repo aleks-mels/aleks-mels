@@ -17,8 +17,15 @@ QA инженер с техническим и педагогическим бэ
 Следующая цель - выстроить сильную экспертизу в ручном тестировании и постепенно перейти к автоматизации в течение ближайшего года, развивая технический стек и подход к качеству как системной работе.
 
 **Контакты:**  
-- Upwork:  
-- LinkedIn:  
+<p align="left">
+  <a href="YOUR_UPWORK_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+</p>
 
 ---
 
