@@ -19,13 +19,14 @@ QA инженер с техническим и педагогическим бэ
 **Контакты:**  
 <p align="left">
   <a href="YOUR_UPWORK_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=Upwork&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=Upwork&logoColor=white" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
