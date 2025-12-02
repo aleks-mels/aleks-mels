@@ -32,19 +32,19 @@ QA инженер с техническим и педагогическим бэ
 # Резюме
 
 <p align="left">
-  <img src="assets/icons/postman.png"   alt="Postman"   title="Postman"   width="40" height="40" />
-  &nbsp;
-  <img src="assets/icons/swagger.png"   alt="Swagger"   title="Swagger / OpenAPI" width="40" height="40" />
-  &nbsp;
-  <img src="assets/icons/json.png"      alt="JSON"      title="JSON"      width="40" height="40" />
-  &nbsp;
-  <img src="assets/icons/http.png"      alt="HTTP"      title="HTTP / REST" width="40" height="40" />
-  &nbsp;
-  <img src="assets/icons/html5.png"     alt="HTML"      title="HTML"      width="40" height="40" />
-  &nbsp;
-  <img src="assets/icons/python.png"    alt="Python"    title="Python"    width="40" height="40" />
-  &nbsp;
-  <img src="assets/icons/postman.png"   alt="Postman"   title="Postman"   width="40" height="40" />
+
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-logo.png" title="Postman" width="48" height="48" />
+
+  <img src="https://img.icons8.com/color/48/swagger.png" title="Swagger / OpenAPI" width="48" height="48" />
+
+  <img src="https://img.icons8.com/color/48/json.png" title="JSON" width="48" height="48" />
+
+  <img src="https://img.icons8.com/color/48/api.png" title="HTTP" width="48" height="48" />
+
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML" width="48" height="48" />
+
+  <img src="https://img.icons8.com/color/48/python.png" title="Python" width="48" height="48" />
+
 </p>
 
 
