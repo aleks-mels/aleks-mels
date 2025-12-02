@@ -86,19 +86,11 @@ QA инженер с техническим и педагогическим бэ
 ## Databases
 <p align="left">
 
-  <a title="PostgreSQL">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="48" height="48">
-  </a>
-  &nbsp;
+  <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL" width="48" height="48" />
 
-  <a title="MySQL">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" height="48">
-  </a>
-  &nbsp;
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" title="MySQL" width="48" height="48" />
 
-  <a title="SQLite">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48">
-  </a>
+  <img src="https://img.icons8.com/color/48/sqlite.png" title="SQLite" width="48" height="48" />
 
 </p>
 
@@ -107,52 +99,32 @@ QA инженер с техническим и педагогическим бэ
 ## DevOps / Infrastructure
 <p align="left">
 
-  <a title="Linux">
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="48" height="48">
-  </a>
-  &nbsp;
+  <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux" width="48" height="48" />
 
-  <a title="Ubuntu">
-    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="48" height="48">
-  </a>
-  &nbsp;
+  <img src="https://img.icons8.com/color/48/ubuntu--v1.png" title="Ubuntu" width="48" height="48" />
 
-  <a title="Bash">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48" height="48">
-  </a>
-  &nbsp;
+  <img src="https://img.icons8.com/color/48/console.png" title="Bash" width="48" height="48" />
 
-  <a title="GitHub">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="48" height="48">
-  </a>
-  &nbsp;
+  <img src="https://img.icons8.com/material-outlined/48/github.png" title="GitHub" width="48" height="48" />
 
-  <a title="LambdaTest">
-    <img src="https://avatars.githubusercontent.com/u/22231576?s=200&v=4" width="48" height="48">
-  </a>
+  <img src="https://img.icons8.com/color/48/lambda.png" title="LambdaTest" width="48" height="48" />
 
 </p>
+
 
 
 
 ## QA / Automation / Testing Tools
 <p align="left">
 
-  <a title="Jira">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="48" height="48">
-  </a>
-  &nbsp;
+  <img src="https://img.icons8.com/color/48/jira.png" title="Jira" width="48" height="48" />
 
-  <a title="Confluence">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" width="48" height="48">
-  </a>
-  &nbsp;
+  <img src="https://img.icons8.com/color/48/confluence.png" title="Confluence" width="48" height="48" />
 
-  <a title="Miro">
-    <img src="https://static-00.iconduck.com/assets.00/miro-icon-466x512-2suj2n1w.png" width="48" height="48">
-  </a>
+  <img src="https://img.icons8.com/color/48/miro.png" title="Miro" width="48" height="48" />
 
 </p>
+
 
 
 
