@@ -42,7 +42,7 @@ QA инженер с техническим и педагогическим бэ
 
   <!-- HeadHunter -->
   <a href="YOUR_HH_URL" title="HeadHunter" target="_blank">
-    <img src="https://static.thenounproject.com/png/7532187-512.png"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
          width="48" height="48" alt="HeadHunter">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,15 +52,9 @@ QA инженер с техническим и педагогическим бэ
     <img src="https://img.icons8.com/color/48/google-drive--v2.png"
          width="48" height="48" alt="Резюме (RU)">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- EN Resume (Google Drive) -->
-  <a href="YOUR_EN_RESUME_DRIVE_URL" title="Resume (EN)" target="_blank">
-    <img src="https://img.icons8.com/color/48/google-drive--v2.png"
-         width="48" height="48" alt="Resume (EN)">
-  </a>
 
 </p>
+
 
 
 ---
