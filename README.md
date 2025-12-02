@@ -37,7 +37,7 @@ QA инженер с техническим и педагогическим бэ
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- HeadHunter -->
-  <a href="YOUR_HH_URL" title="HeadHunter" target="_blank">
+  <a href="https://hh.ru/resume/2f6cf83dff0f8861970039ed1f69553768627a" title="HeadHunter" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
          width="48" height="48" alt="HeadHunter">
   </a>
@@ -177,7 +177,7 @@ The next goal is to build solid expertise in manual testing and gradually transi
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- HeadHunter -->
-  <a href="YOUR_HH_URL" title="HeadHunter" target="_blank">
+  <a href="https://hh.ru/resume/2f6cf83dff0f8861970039ed1f69553768627a" title="HeadHunter" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
          width="48" height="48" alt="Резюме HeadHunter">
   </a>
