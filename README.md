@@ -1,13 +1,14 @@
-<p align="right">
-  <a href="#о-себе">
+<p align="center">
+  <a href="#привет-меня-зовут-александра">
     <img src="https://img.shields.io/badge/🇷🇺 Русский-blue?style=for-the-badge">
   </a>
-  <a href="#about-me">
+  &nbsp;&nbsp;
+  <a href="#hi-my-name-is-alexandra">
     <img src="https://img.shields.io/badge/🇬🇧 English-blue?style=for-the-badge">
   </a>
 </p>
 
-# О себе
+# Привет, меня зовут Александра!
 
 Краткое описание.
 
@@ -66,7 +67,7 @@
 - Upwork:  
 - GitHub:
 
-# About Me
+# Hi, my name is Alexandra! {#hi-my-name-is-alexandra}
 
 Short description.
 
@@ -124,4 +125,3 @@ Link to the courses repository
 - LinkedIn:  
 - Upwork:  
 - GitHub:
-
