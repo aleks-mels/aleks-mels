@@ -34,33 +34,34 @@ QA инженер с техническим и педагогическим бэ
 <p align="center">
 
   <!-- LinkedIn -->
-  <a href="YOUR_LINKEDIN_URL" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="48" height="48" alt="LinkedIn"/><br>
-    <sub>LinkedIn</sub>
+  <a href="YOUR_LINKEDIN_URL" title="LinkedIn" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png"
+         width="48" height="48" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- HeadHunter (кастомная круглая иконка, рабочая) -->
-  <a href="YOUR_HH_URL" target="_blank" style="text-decoration:none;">
-    <img src="https://i.imgur.com/SJ0X9Qm.png" width="48" height="48" alt="HeadHunter"/><br>
-    <sub>HeadHunter</sub>
+  <!-- HeadHunter -->
+  <a href="YOUR_HH_URL" title="HeadHunter" target="_blank">
+    <img src="https://static.thenounproject.com/png/7532187-512.png"
+         width="48" height="48" alt="HeadHunter">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Resume RU -->
-  <a href="YOUR_RU_RESUME_DRIVE_URL" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/color/48/google-drive--v2.png" width="48" height="48" alt="RU Resume"/><br>
-    <sub>Резюме (RU)</sub>
+  <!-- RU Resume (Google Drive) -->
+  <a href="YOUR_RU_RESUME_DRIVE_URL" title="Резюме (RU)" target="_blank">
+    <img src="https://img.icons8.com/color/48/google-drive--v2.png"
+         width="48" height="48" alt="Резюме (RU)">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Resume EN -->
-  <a href="YOUR_EN_RESUME_DRIVE_URL" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/color/48/google-drive--v2.png" width="48" height="48" alt="EN Resume"/><br>
-    <sub>Resume (EN)</sub>
+  <!-- EN Resume (Google Drive) -->
+  <a href="YOUR_EN_RESUME_DRIVE_URL" title="Resume (EN)" target="_blank">
+    <img src="https://img.icons8.com/color/48/google-drive--v2.png"
+         width="48" height="48" alt="Resume (EN)">
   </a>
 
 </p>
+
 
 ---
 
