@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="#привет-меня-зовут-александра">
+  <a href="#qa-инженер">
     <img src="https://img.shields.io/badge/🇷🇺 Русский-blue?style=for-the-badge">
   </a>
   &nbsp;&nbsp;
-  <a href="#hi-my-name-is-alexandra">
+  <a href="#qa-engineer">
     <img src="https://img.shields.io/badge/🇬🇧 English-blue?style=for-the-badge">
   </a>
 </p>
 
-# Привет, меня зовут Александра!
+# QA инженер
 
 Краткое описание.
 
@@ -67,61 +67,6 @@
 - Upwork:  
 - GitHub:
 
-# Hi, my name is Alexandra! {#hi-my-name-is-alexandra}
+# QA Engineer
 
-Short description.
-
-**Contacts:**  
-- Upwork:  
-- LinkedIn:  
-
----
-
-# Resume
-
-Resume links:  
-- LinkedIn:  
-- HeadHunter:  
-- Resume (RU, Google Drive):  
-- Resume (EN, Google Drive):  
-
----
-
-# Tech Stack & Tools
-
-## Backend / API / Tools
-(tool icons)
-
-## Databases
-(tool icons)
-
-## DevOps / Infrastructure
-(tool icons)
-
-## QA / Automation / Testing Tools
-(tool icons)
-
-## Other
-(tool icons)
-
----
-
-# Portfolio
-
-Link to the portfolio repository
-
----
-
-# Completed Courses
-
-Link to the courses repository
-
----
-
-# Contacts
-
-- Email:  
-- Telegram:  
-- LinkedIn:  
-- Upwork:  
-- GitHub:
+Sho
