@@ -103,7 +103,12 @@ QA инженер с техническим и педагогическим бэ
 
 # Портфолио
 
-Ссылка на репозиторий с портфолио
+<p align="left">
+  <a href="https://github.com/aleks-mels/QA-portfolio-ru" target="_blank">
+    <img src="https://img.shields.io/badge/Открыть_портфолио-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
