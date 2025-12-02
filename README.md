@@ -33,7 +33,7 @@ QA инженер с техническим и педагогическим бэ
 
 <p align="left">
 
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-logo.png" title="Postman" width="48" height="48" />
+  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="Postman" width="48" height="48" />
 
   <img src="https://img.icons8.com/color/48/swagger.png" title="Swagger / OpenAPI" width="48" height="48" />
 
