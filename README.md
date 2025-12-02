@@ -62,19 +62,109 @@ QA инженер с техническим и педагогическим бэ
 # Технологии и инструменты
 
 ## Backend / API / Tools
-(картинки инструментов)
+<p align="left">
+
+  <a title="Postman">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="48" height="48">
+  </a>
+  &nbsp;
+
+  <a title="Swagger / OpenAPI">
+    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-256x256-2v4y3m8x.png" width="48" height="48">
+  </a>
+  &nbsp;
+
+  <a title="JSON">
+    <img src="https://img.icons8.com/color/48/json.png" width="48" height="48">
+  </a>
+  &nbsp;
+
+  <a title="HTTP">
+    <img src="https://img.icons8.com/fluency/48/api.png" width="48" height="48">
+  </a>
+  &nbsp;
+
+  <a title="HTML">
+    <img src="https://img.icons8.com/color/48/html-5--v1.png" width="48" height="48">
+  </a>
+  &nbsp;
+
+  <a title="Python">
+    <img src="https://img.icons8.com/color/48/python--v1.png" width="48" height="48">
+  </a>
+
+</p>
+
 
 ## Databases
-(картинки инструментов)
+<p align="left">
+
+  <a title="PostgreSQL">
+    <img src="https://img.icons8.com/color/48/postgreesql.png" width="48" height="48">
+  </a>
+  &nbsp;
+
+  <a title="MySQL">
+    <img src="https://img.icons8.com/fluency/48/mysql-logo.png" width="48" height="48">
+  </a>
+  &nbsp;
+
+  <a title="SQLite">
+    <img src="https://img.icons8.com/ios-filled/50/sql.png" width="48" height="48">
+  </a>
+
+</p>
+
 
 ## DevOps / Infrastructure
-(картинки инструментов)
+<p align="left">
+
+  <a title="Linux">
+    <img src="https://img.icons8.com/color/48/linux--v1.png" width="48" height="48">
+  </a>
+  &nbsp;
+
+  <a title="Ubuntu">
+    <img src="https://img.icons8.com/color/48/ubuntu--v1.png" width="48" height="48">
+  </a>
+  &nbsp;
+
+  <a title="Bash">
+    <img src="https://img.icons8.com/fluency/48/console.png" width="48" height="48">
+  </a>
+  &nbsp;
+
+  <a title="GitHub">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="48" height="48">
+  </a>
+  &nbsp;
+
+  <a title="LambdaTest">
+    <img src="https://avatars.githubusercontent.com/u/22231576?s=200&v=4" width="48" height="48">
+  </a>
+
+</p>
+
 
 ## QA / Automation / Testing Tools
-(картинки инструментов)
+<p align="left">
 
-## Прочее
-(картинки инструментов)
+  <a title="Jira">
+    <img src="https://img.icons8.com/color/48/jira.png" width="48" height="48">
+  </a>
+  &nbsp;
+
+  <a title="Confluence">
+    <img src="https://img.icons8.com/color/48/confluence--v1.png" width="48" height="48">
+  </a>
+  &nbsp;
+
+  <a title="Miro">
+    <img src="https://img.icons8.com/color/48/miro.png" width="48" height="48">
+  </a>
+
+</p>
+
 
 ---
 
