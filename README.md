@@ -214,7 +214,12 @@ The next goal is to build solid expertise in manual testing and gradually transi
 
 # Portfolio
 
-Link to the portfolio repository
+<p align="left">
+  <a href="https://github.com/aleks-mels/QA-portfolio-en/blob/main/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/Open_Portfolio-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
