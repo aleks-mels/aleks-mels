@@ -34,7 +34,7 @@ QA инженер с техническим и педагогическим бэ
 <p align="center">
 
   <!-- LinkedIn -->
-  <a href="YOUR_LINKEDIN_URL" title="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/ormviking/" title="LinkedIn" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png"
          width="48" height="48" alt="LinkedIn">
   </a>
@@ -128,19 +128,19 @@ QA инженер с техническим и педагогическим бэ
 <p align="center">
 
   <!-- Email -->
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:aleks.melikhova.1992@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335" title="Email" />
   </a>
   &nbsp;
 
   <!-- Telegram -->
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/aleks_mels" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" />
   </a>
   &nbsp;
 
   <!-- LinkedIn -->
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/ormviking/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
   </a>
 
@@ -259,19 +259,19 @@ The next goal is to build solid expertise in manual testing and gradually transi
 <p align="center">
 
   <!-- Email -->
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:aleks.melikhova.1992@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335" title="Email" />
   </a>
   &nbsp;
 
   <!-- Telegram -->
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/aleks_mels" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" />
   </a>
   &nbsp;
 
   <!-- LinkedIn -->
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/ormviking/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
   </a>
 
