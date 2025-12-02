@@ -1,3 +1,12 @@
+<p align="right">
+  <a href="#о-себе">
+    <img src="https://img.shields.io/badge/🇷🇺 Русский-blue?style=for-the-badge">
+  </a>
+  <a href="#about-me">
+    <img src="https://img.shields.io/badge/🇬🇧 English-blue?style=for-the-badge">
+  </a>
+</p>
+
 # О себе
 
 Краткое описание.
