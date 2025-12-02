@@ -120,11 +120,27 @@ QA инженер с техническим и педагогическим бэ
 
 # Контакты
 
-- Email:  
-- Telegram:  
-- LinkedIn:  
-- Upwork:  
-- GitHub:
+<p align="center">
+
+  <!-- Email -->
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335" title="Email" />
+  </a>
+  &nbsp;
+
+  <!-- Telegram -->
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" />
+  </a>
+  &nbsp;
+
+  <!-- LinkedIn -->
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
+  </a>
+
+</p>
+
 
 # QA Engineer
 
@@ -231,8 +247,23 @@ Link to the courses repository
 
 # Contacts
 
-- Email:  
-- Telegram:  
-- LinkedIn:  
-- Upwork:  
-- GitHub:
+<p align="center">
+
+  <!-- Email -->
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335" title="Email" />
+  </a>
+  &nbsp;
+
+  <!-- Telegram -->
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" />
+  </a>
+  &nbsp;
+
+  <!-- LinkedIn -->
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
+  </a>
+
+</p>
