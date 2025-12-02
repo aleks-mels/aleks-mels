@@ -49,8 +49,18 @@ QA инженер с техническим и педагогическим бэ
 
   <!-- Resume RU -->
   <a href="YOUR_RU_RESUME_DRIVE_URL" target="_blank" style="text-decoration:none;">
-    <img src="https://img.icons8.com/color/48/google-drive--v2.png" wid
+    <img src="https://img.icons8.com/color/48/google-drive--v2.png" width="48" height="48" alt="RU Resume"/><br>
+    <sub>Резюме (RU)</sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <!-- Resume EN -->
+  <a href="YOUR_EN_RESUME_DRIVE_URL" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/48/google-drive--v2.png" width="48" height="48" alt="EN Resume"/><br>
+    <sub>Resume (EN)</sub>
+  </a>
+
+</p>
 
 ---
 
