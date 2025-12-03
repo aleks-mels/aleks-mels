@@ -281,5 +281,10 @@ The next goal is to build solid expertise in manual testing and gradually transi
   </a>
 </p>
 [![codewars](https://www.codewars.com/users/aleks-mels/badges/large)](https://www.codewars.com/users/aleks-mels) 
-![](https://komarev.com/ghpvc/?username=aleks-mels)]
-
+![](https://komarev.com/ghpvc/?username=aleks-mels)
+<!--
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=user1684fH&theme=dark)](https://github.com/user1684fH/leetcode-stats)
+-->
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=aleks-mels&theme=algolia)](https://github.com/aleks-mels/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleks-mels&layout=compact)](https://github.com/aleks-mels/github-readme-stats)
