@@ -282,3 +282,4 @@ The next goal is to build solid expertise in manual testing and gradually transi
 </p>
 
 ![](https://komarev.com/ghpvc/?username=aleks-mels)
+![codewars](https://www.codewars.com/users/aleks-mels/badges/large)](https://www.codewars.com/users/aleks-mels) 
