@@ -109,7 +109,7 @@ QA инженер с техническим и педагогическим бэ
 
 
 ---
-
+<!--
 # Пройденные курсы
 
 <p align="left">
@@ -117,7 +117,7 @@ QA инженер с техническим и педагогическим бэ
     <img src="https://img.shields.io/badge/Open_Courses-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
-
+-->
 
 ---
 
@@ -231,7 +231,7 @@ The next goal is to build solid expertise in manual testing and gradually transi
 </p>
 
 ---
-
+<!--
 # Portfolio
 
 <p align="left">
@@ -250,7 +250,7 @@ The next goal is to build solid expertise in manual testing and gradually transi
     <img src="https://img.shields.io/badge/Open_Courses-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
-
+-->
 ---
 
 # Contacts
