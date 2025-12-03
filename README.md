@@ -70,6 +70,8 @@ QA инженер с техническим и педагогическим бэ
 
   <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="Postman" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/lambda.png" title="LambdaTest" width="48" height="48" />
+   <img src="https://logotyp.us/file/vs-code.svg" title="Visual Studio Code" width="48" height="48" />
+  
 </p>
 
 ## Databases
@@ -92,6 +94,7 @@ QA инженер с техническим и педагогическим бэ
   <img src="https://img.icons8.com/color/48/jira.png" title="Jira" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/confluence.png" title="Confluence" width="48" height="48" />
   <img src="https://logosandtypes.com/wp-content/uploads/2022/04/miro.svg" title="Miro" width="48" height="48" />
+  
 </p>
 
 
@@ -206,6 +209,8 @@ The next goal is to build solid expertise in manual testing and gradually transi
 
   <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="Postman" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/lambda.png" title="LambdaTest" width="48" height="48" />
+   <img src="https://logotyp.us/file/vs-code.svg" title="Visual Studio Code" width="48" height="48" />
+  
 </p>
 
 ## Databases
