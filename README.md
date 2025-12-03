@@ -64,7 +64,7 @@ QA инженер с техническим и педагогическим бэ
   <img src="https://img.icons8.com/color/48/python.png" title="Python" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML" width="48" height="48" />
   
-  <img src="https://github.com/user-attachments/assets/6c4d9fd1-2c18-4a93-ac94-077909307b89" title="Swagger / OpenAPI" width="48" height="48" />
+  <img src="img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/424d404a-afdd-4ff4-a5b3-bcb15ea02430" title="Swagger / OpenAPI" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/json.png" title="JSON" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/api.png" title="HTTP" width="48" height="48" />
 
