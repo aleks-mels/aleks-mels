@@ -87,7 +87,7 @@ QA инженер с техническим и педагогическим бэ
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" title="GitHub" width="48" height="48" />
 </p>
 
-## QA / Testing Tools
+## Management
 <p align="left">
   <img src="https://img.icons8.com/color/48/jira.png" title="Jira" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/confluence.png" title="Confluence" width="48" height="48" />
@@ -223,7 +223,7 @@ The next goal is to build solid expertise in manual testing and gradually transi
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" title="GitHub" width="48" height="48" />
 </p>
 
-## QA / Testing Tools
+## Management
 <p align="left">
   <img src="https://img.icons8.com/color/48/jira.png" title="Jira" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/confluence.png" title="Confluence" width="48" height="48" />
