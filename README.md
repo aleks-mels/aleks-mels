@@ -70,7 +70,7 @@ QA инженер с техническим и педагогическим бэ
 
   <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="Postman" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/lambda.png" title="LambdaTest" width="48" height="48" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" width="46" height="46" />
   
 </p>
 
@@ -209,7 +209,7 @@ The next goal is to build solid expertise in manual testing and gradually transi
 
   <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="Postman" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/lambda.png" title="LambdaTest" width="48" height="48" />
-   <img src="https://logotyp.us/file/vs-code.svg" title="Visual Studio Code" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" width="46" height="46" />
   
 </p>
 
