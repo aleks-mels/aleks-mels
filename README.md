@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# QA инженер
+# Александра Мелихова - QA инженер
 
 QA инженер с техническим и педагогическим бэкграундом. По образованию - учитель истории и педагог-дефектолог. В профессиональном опыте были и техническая поддержка, и работа преподавателем в колледже (мехатроника и инженерная графика), а также участие в стартапе (3D-печать). Такой путь сформировал устойчивое техническое мышление, умение быстро разбираться в новых системах и смотреть на продукт одновременно глазами пользователя и специалиста.
 
@@ -145,7 +145,7 @@ QA инженер с техническим и педагогическим бэ
 </p>
 
 
-# QA Engineer
+# Aleksandra Melikhova QA Engineer
 
 A QA Engineer with both technical and pedagogical background. Formally educated as a history teacher and special education pedagogue, with professional experience that includes technical support, work in the educational field, and participation in a 3D-printing startup. This combination shaped strong analytical thinking, the ability to quickly understand new systems, and a balanced perspective that considers both the user’s experience and the technical logic behind a product.
 
