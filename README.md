@@ -280,3 +280,6 @@ The next goal is to build solid expertise in manual testing and gradually transi
     <img src="https://img.shields.io/badge/🇷🇺 Русский-blue?style=for-the-badge">
   </a>
 </p>
+[![codewars](https://www.codewars.com/users/aleks-mels/badges/large)](https://www.codewars.com/users/aleks-mels) 
+![](https://komarev.com/ghpvc/?username=aleks-mels)]
+
