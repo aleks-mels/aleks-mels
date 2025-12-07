@@ -1,8 +1,9 @@
-<p align="center">
+<!--<p align="center">
   <a href="#qa-engineer">
     <img src="https://img.shields.io/badge/🇬🇧 English-blue?style=for-the-badge">
   </a>
 </p>
+-->
 
 # Александра Мелихова - QA инженер
 
@@ -147,7 +148,7 @@ QA инженер с техническим и педагогическим бэ
 
 </p>
 
-
+<!--
 # Aleksandra Melikhova QA Engineer
 
 A QA Engineer with both technical and pedagogical background. Formally educated as a history teacher and special education pedagogue, with professional experience that includes technical support, work in the educational field, and participation in a 3D-printing startup. This combination shaped strong analytical thinking, the ability to quickly understand new systems, and a balanced perspective that considers both the user’s experience and the technical logic behind a product.
@@ -169,10 +170,11 @@ The next goal is to build solid expertise in manual testing and gradually transi
 
 # Resume
 
-
+-->
+<!--
 <p align="center">
-
   <!-- LinkedIn -->
+  <!--
   <a href="YOUR_LINKEDIN_URL" title="LinkedIn" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png"
          width="48" height="48" alt="Резюме LinkedIn">
@@ -180,22 +182,22 @@ The next goal is to build solid expertise in manual testing and gradually transi
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- HeadHunter -->
+ <!--  
   <a href="https://hh.ru/resume/2f6cf83dff0f8861970039ed1f69553768627a" title="HeadHunter" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
          width="48" height="48" alt="Резюме HeadHunter">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-
   <!-- RU Resume (Google Drive) -->
+ <!--  
   <a href="YOUR_RU_RESUME_DRIVE_URL" title="Резюме (RU)" target="_blank">
     <img src="https://img.icons8.com/color/48/google-drive--v2.png"
          width="48" height="48" alt="Резюме (RU)">
   </a>
-
 </p>
+-->
 
----
-
+<!--
 # Tech Stack & Tools
 
 ## Backend / API / Tools
@@ -255,30 +257,27 @@ The next goal is to build solid expertise in manual testing and gradually transi
     <img src="https://img.shields.io/badge/Open_Courses-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
--->
----
+
+
 
 # Contacts
 
 <p align="center">
 
-  <!-- Email -->
   <a href="mailto:aleks.melikhova.1992@gmail.com">
     <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335" title="Email" />
   </a>
   &nbsp;
 
-  <!-- Telegram -->
   <a href="https://t.me/aleks_mels" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Telegram" />
   </a>
   &nbsp;
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ormviking/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
   </a>
-
+-->
 </p>
 <p align="center">
   <a href="#qa-инженер">
