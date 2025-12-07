@@ -45,10 +45,11 @@ QA инженер с техническим и педагогическим бэ
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- RU Resume (Google Drive) -->
-  <a href="YOUR_RU_RESUME_DRIVE_URL" title="Резюме (RU)" target="_blank">
-    <img src="https://img.icons8.com/color/48/google-drive--v2.png"
-         width="48" height="48" alt="Резюме (RU)">
-  </a>
+<a href="https://github.com/aleks-mels/QA-portfolio-ru/blob/main/CV_Melikhova_ru.pdf" title="Резюме (RU, PDF)" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"
+       width="48" height="48" alt="Резюме (RU) — PDF">
+</a>
+
 
 </p>
 
