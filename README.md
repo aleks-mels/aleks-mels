@@ -277,14 +277,16 @@ The next goal is to build solid expertise in manual testing and gradually transi
   <a href="https://www.linkedin.com/in/ormviking/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
   </a>
--->
+
 </p>
+-->
+<!--
 <p align="center">
   <a href="#qa-инженер">
     <img src="https://img.shields.io/badge/🇷🇺 Русский-blue?style=for-the-badge">
   </a>
 </p>
-
+-->
 [![codewars](https://www.codewars.com/users/aleks-mels/badges/micro)](https://www.codewars.com/users/aleks-mels)
 ![](https://komarev.com/ghpvc/?username=aleks-mels)
 
