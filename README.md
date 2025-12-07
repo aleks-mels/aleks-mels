@@ -97,7 +97,7 @@ QA инженер с техническим и педагогическим бэ
   <img src="https://img.icons8.com/color/48/jira.png" title="Jira" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/confluence.png" title="Confluence" width="48" height="48" />
   <img src="https://logosandtypes.com/wp-content/uploads/2022/04/miro.svg" title="Miro" width="48" height="48" />
-  <img src="https://www.facebook.com/photo/?fbid=166800572620369&set=a.166800549287038" title="Hive" width="48" height="48" />
+  <img src="https://scontent.ftbs5-4.fna.fbcdn.net/v/t39.30808-6/310657661_166800565953703_3060678674617039057_n.png?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=bnvDwdjL-csQ7kNvwHg2ysc&_nc_oc=AdlDJdafgbR7XDDl5KZVy7eEDcwJ5P_mDPdQkn7M8Zqp2N3DDBlMdu5ohxHqUhclTM0&_nc_zt=23&_nc_ht=scontent.ftbs5-4.fna&_nc_gid=zWqrWJxRhi5cnCxluyv3nw&oh=00_Afm8ZIb1T5EFm2cGqnRqd_WWF3jU2lEbiLGUktN5Mpzgmg&oe=693BCE59)" title="Hive" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/trello.png" title="Trello" width="48" height="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bitrix24_logo.svg/512px-Bitrix24_logo.svg.png" title="Bitrix24" width="48" height="48" />
 </p>
