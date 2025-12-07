@@ -97,7 +97,7 @@ QA инженер с техническим и педагогическим бэ
   <img src="https://img.icons8.com/color/48/jira.png" title="Jira" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/confluence.png" title="Confluence" width="48" height="48" />
   <img src="https://logosandtypes.com/wp-content/uploads/2022/04/miro.svg" title="Miro" width="48" height="48" />
-  <img src="https://cdn-hhomn.nitrocdn.com/owkBmdjkYWIKArhpTrYLoSVIZUZjkLka/assets/images/optimized/rev-fbeefdb/hive.com/wp-content/uploads/2023/12/Colored-Logo.svg" title="Hive" width="48" height="48" />
+  <img src="https://www.facebook.com/photo/?fbid=166800572620369&set=a.166800549287038" title="Hive" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/trello.png" title="Trello" width="48" height="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bitrix24_logo.svg/512px-Bitrix24_logo.svg.png" title="Bitrix24" width="48" height="48" />
 </p>
