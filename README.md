@@ -81,6 +81,7 @@ QA инженер с техническим и педагогическим бэ
   <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL" width="48" height="48" />
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" width="48" height="48" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/dbeaver/dbeaver/master/icons/dbeaver.png" title="DBeaver" width="48" height="48" />
 </p>
 
 ## DevOps / Infrastructure
