@@ -114,7 +114,7 @@ QA инженер с техническим и педагогическим бэ
 
 
 ---
-# Пройденные курсы
+# Курсы и сертификаты
 
 <p align="left">
   <a href="https://github.com/aleks-mels/QA-courses-ru" target="_blank">
