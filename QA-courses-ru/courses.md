@@ -3,10 +3,10 @@
 
 **Бейджи**
 <p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Agile%20Explorer.png" width="350" height="350"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Data%20Fundamentals.png" width="350" height="350"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Information%20Technology%20Fundamentals.png" width="350" height="350"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Web%20Development%20Fundamentals.png" width="350" height="350"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Agile%20Explorer.png" width="150" height="150"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Data%20Fundamentals.png" width="150" height="150"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Information%20Technology%20Fundamentals.png" width="150" height="150"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Web%20Development%20Fundamentals.png" width="150" height="150"></a>
 </p>
 
 
