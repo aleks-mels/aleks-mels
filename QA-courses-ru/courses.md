@@ -3,10 +3,10 @@
 
 **Бейджи**
 <p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Agile%20Explorer.png" width="150" height="150"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Data%20Fundamentals.png" width="150" height="150"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Information%20Technology%20Fundamentals.png" width="150" height="150"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Web%20Development%20Fundamentals.png" width="150" height="150"></a>
+  <a href="https://www.credly.com/badges/06f56458-5e63-47e3-9638-6f52b29eb74b/public_url"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Agile%20Explorer.png" width="150" height="150"></a>
+  <a href="https://www.credly.com/badges/07006a8a-6652-4c77-b8fd-028570714d25/public_url"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Data%20Fundamentals.png" width="150" height="150"></a>
+  <a href="https://www.credly.com/badges/951b6d5f-649b-4924-a62f-47db3c68f270/public_url"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Information%20Technology%20Fundamentals.png" width="150" height="150"></a>
+  <a href="https://www.credly.com/badges/dfd9e051-594a-4987-8adb-3dc6ae13446d/public_url"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Web%20Development%20Fundamentals.png" width="150" height="150"></a>
 </p>
 
 
