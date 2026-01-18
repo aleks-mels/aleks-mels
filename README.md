@@ -117,7 +117,7 @@ QA инженер с техническим и педагогическим бэ
 # Курсы и сертификаты
 
 <p align="left">
-  <a href="https://github.com/aleks-mels/QA-courses-ru" target="_blank">
+  <a href="https://github.com/aleks-mels/aleks-mels/blob/main/QA-courses-ru/courses.md" target="_blank">
     <img src="https://img.shields.io/badge/Open_Courses-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
