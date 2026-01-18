@@ -141,7 +141,7 @@ QA инженер с техническим и педагогическим бэ
   &nbsp;
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ormviking/" target="_blank">
+  <a href="https://www.linkedin.com/in/aleksmels/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
   </a>
 
