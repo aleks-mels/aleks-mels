@@ -114,7 +114,6 @@ QA инженер с техническим и педагогическим бэ
 
 
 ---
-<!--
 # Пройденные курсы
 
 <p align="left">
@@ -122,7 +121,6 @@ QA инженер с техническим и педагогическим бэ
     <img src="https://img.shields.io/badge/Open_Courses-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
--->
 
 ---
 
