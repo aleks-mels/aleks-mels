@@ -18,7 +18,7 @@ QA инженер с техническим и педагогическим бэ
     <img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=Upwork&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ormviking/" target="_blank">
+  <a href="https://www.linkedin.com/in/aleksmels/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
