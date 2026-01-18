@@ -2,10 +2,11 @@
 **[Профиль](https://www.credly.com/users/aleks_mels/badges#credly)**
 
 **Бейджи**
-[![Сертификат 1]([https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/BXS-ADM-Base.png](https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Agile%20Explorer.png))]()
-[![Сертификат 2]([https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/BXS-CM.png](https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Data%20Fundamentals.png))]()
-[![Сертификат 3]([https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/bx-seo.png](https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Information%20Technology%20Fundamentals.png))]()
-[![Сертификат 4]([https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/instal.png](https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Web%20Development%20Fundamentals.png))]()
+[![Сертификат 1](https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Agile%20Explorer.png)]()
+[![Сертификат 2](https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Data%20Fundamentals.png)]()
+[![Сертификат 3](https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Information%20Technology%20Fundamentals.png)]()
+[![Сертификат 4](https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Web%20Development%20Fundamentals.png)]()
+
 
 # Битрикс
 
