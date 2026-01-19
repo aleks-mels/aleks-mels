@@ -12,6 +12,16 @@
 
 **Сертификаты**
 
+# Datacamp
+**[Профиль](https://www.datacamp.com/portfolio/aleksmels)**
+
+**Сертификаты**
+
+# w3schools
+**[Профиль](https://www.w3profile.com/AleksMels/)**
+
+**Сертификаты**
+
 # Credly
 **[Профиль](https://www.credly.com/users/aleks_mels/badges#credly)**
 
