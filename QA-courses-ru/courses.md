@@ -13,7 +13,7 @@
     <img 
       src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20SQL.png" 
       width="150"
-      title="Введение в SQL Ирина Selectовна"
+      title="Введение в SQL | Ирина Selectовна"
       alt="Введение в SQL Ирина Selectовна Сертификат"
     >
   </a>
@@ -22,10 +22,19 @@
     <img 
       src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/SQL%20Introduction.png" 
       width="150"
-      title="SQL Introduction IT Guru"
+      title="SQL Introduction | IT Guru"
       alt="SQL Introduction IT Guru Сертификат"
     >
   </a>
+  <a href="https://stepik.org/cert/3113321">
+    <img 
+      src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20SQL.png" 
+      width="150"
+      title="Введение в базы данных | Computer Science Center (CS центр)"
+      alt="Введение в базы данных | Computer Science Center (CS центр) Сертификат"
+    >
+  </a>
+  
 </p>
 
 
