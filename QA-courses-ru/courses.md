@@ -85,3 +85,9 @@
 [![Сертификат 2](https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/BXS-CM.png)](https://github.com/aleks-mels/aleks-mels/blob/main/QA-courses-ru/certificates/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80.pdf)
 [![Сертификат 3](https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/bx-seo.png)](https://github.com/aleks-mels/aleks-mels/blob/main/QA-courses-ru/certificates/%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0%20%D0%B8%20%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3.pdf)
 [![Сертификат 4](https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/instal.png)](https://github.com/aleks-mels/aleks-mels/blob/main/QA-courses-ru/certificates/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%B8%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0.pdf)
+
+# Высшее образование и переподготовка
+
+Волгоградский государственный социально-педагогический университет, факультет истории и права, 2009-2013, бакалавр социально-экономического образования по направлению "Социально-экономическое образование" с отличием (учитель истории, если просто).
+
+
