@@ -34,7 +34,16 @@
       alt="Введение в базы данных | Computer Science Center (CS центр) Сертификат"
     >
   </a>
-  
+
+<p align="left">
+  <a href="https://stepik.org/cert/3119786">
+    <img 
+      src="https://stepik.org/certificate/c9515a425f3fc73acf82a9c8687f06f38691546e.png?resolution=medium" 
+      width="150"
+      title="SQL Start | Николай Ефимов"
+      alt="SQL Start | Николай Ефимов Сертификат"
+    >
+  </a>
 </p>
 
 
