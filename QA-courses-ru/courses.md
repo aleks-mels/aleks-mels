@@ -99,7 +99,7 @@
 
 Волгоградский государственный социально-педагогический университет, факультет истории и права, 2009-2013, бакалавр социально-экономического образования по направлению "Социально-экономическое образование" с отличием (учитель истории, если просто).
 <p align="left">
-  <a href="https://stepik.org/cert/2910255">
+  <a href="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/IMG-20210907-WA0002.jpg">
     <img 
       src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/IMG-20210907-WA0002.jpg" 
       width="300"
@@ -107,7 +107,7 @@
       alt="Красный диплом истфака ВГСПУ"
     >
   </a>
-    <a href="https://stepik.org/cert/2910255">
+    <a href="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/IMG-20210907-WA0003.jpg">
     <img 
       src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/IMG-20210907-WA0003.jpg" 
       width="150"
@@ -115,7 +115,7 @@
       alt="Красный диплом истфака ВГСПУ"
     >
   </a>
-    <a href="https://stepik.org/cert/2910255">
+    <a href="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/IMG-20210907-WA0004.jpg">
     <img 
       src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/IMG-20210907-WA0004.jpg" 
       width="150"
