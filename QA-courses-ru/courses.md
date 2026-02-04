@@ -103,8 +103,24 @@
     <img 
       src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/IMG-20210907-WA0002.jpg" 
       width="300"
-      title="Введение в SQL | Ирина Selectовна"
-      alt="Введение в SQL Ирина Selectовна Сертификат"
+      title="Красный диплом истфака ВГСПУ"
+      alt="Красный диплом истфака ВГСПУ"
+    >
+  </a>
+    <a href="https://stepik.org/cert/2910255">
+    <img 
+      src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/IMG-20210907-WA0003.jpg" 
+      width="150"
+      title="Красный диплом истфака ВГСПУ"
+      alt="Красный диплом истфака ВГСПУ"
+    >
+  </a>
+    <a href="https://stepik.org/cert/2910255">
+    <img 
+      src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/IMG-20210907-WA0004.jpg" 
+      width="150"
+      title="Красный диплом истфака ВГСПУ"
+      alt="Красный диплом истфака ВГСПУ"
     >
   </a>
 </p>
