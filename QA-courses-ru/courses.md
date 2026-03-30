@@ -44,7 +44,7 @@
       alt="SQL Start | Николай Ефимов Сертификат"
     >
   </a>
-    <a href="https://stepik.org/cert/3190651">
+  <a href="https://stepik.org/cert/3190651">
     <img 
       src="https://stepik.org/certificate/453d39ebd70f385fbb6508609c26cb342ecda7ed.png?resolution=medium" 
       width="150"
@@ -52,7 +52,15 @@
       alt="SQL Практикум Основы | Pragmatic Programmer сертификат"
     >
   </a>
-
+  <a href="https://stepik.org/cert/3199052">
+    <img 
+      src="https://stepik.org/certificate/caee67f71c28bace842bd8f238900f0ff258d1e2.png?resolution=medium" 
+      width="150"
+      title="Введение в базы данных | Высшая школа экономики (НИУ ВШЭ)"
+      alt="Введение в базы данных | Высшая школа экономики (НИУ ВШЭ) сертификат"
+    >
+  </a>
+</p>
 
 *Тестирование*
 <p align="left">
