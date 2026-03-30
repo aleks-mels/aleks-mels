@@ -46,6 +46,17 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://stepik.org/cert/3190651">
+    <img 
+      src="https://stepik.org/certificate/453d39ebd70f385fbb6508609c26cb342ecda7ed.png?resolution=medium" 
+      width="150"
+      title="SQL Практикум Основы | Pragmatic Programmer"
+      alt="SQL Практикум Основы | Pragmatic Programmer сертификат"
+    >
+  </a>
+</p>
+
 
 *Тестирование*
 <p align="left">
