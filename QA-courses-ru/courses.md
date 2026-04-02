@@ -74,6 +74,10 @@
 *Инструменты*
 <p align="left">
 <a href="https://stepik.org/cert/3062556"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Postman-%D0%BD%D0%B8%D0%BD%D0%B4%D0%B7%D1%8F%20c%20%D0%BD%D1%83%D0%BB%D1%8F%20%D0%B4%D0%BE%20%D0%B0%D0%B2%D1%82%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2.png" width="150"></a>
+<a href="https://stepik.org/cert/3202671">
+      <img src="https://stepik.org/certificate/b463ec3fad9c7281e16d3bead798ab0d2b29c876.png?resolution=low" width="150"
+        title="Тестирование ПО: Postman для тестирования API | Константин Барзаковский"
+        alt="Тестирование ПО: Postman для тестирования API | Константин Барзаковский сертификат"></a>
 </p>
 
 # Coursera
