@@ -79,7 +79,9 @@
         title="Тестирование ПО: Postman для тестирования API | Константин Барзаковский"
         alt="Тестирование ПО: Postman для тестирования API | Константин Барзаковский сертификат"></a>
 </p>
+
 *Языки программирования*
+
 <p align="left">
 <a href="https://stepik.org/cert/3203615">
       <img src="https://stepik.org/certificate/4fa12de75766d41bdb42f8825508591ed3e2087c.png?resolution=medium" width="150"
