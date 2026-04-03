@@ -79,6 +79,14 @@
         title="Тестирование ПО: Postman для тестирования API | Константин Барзаковский"
         alt="Тестирование ПО: Postman для тестирования API | Константин Барзаковский сертификат"></a>
 </p>
+*Языки программирования*
+<p align="left">
+<a href="https://stepik.org/cert/3203615">
+      <img src="https://stepik.org/certificate/4fa12de75766d41bdb42f8825508591ed3e2087c.png?resolution=medium" width="150"
+        title="HTML CSS JS | WEB LOUNGE"
+        alt="HTML CSS JS | WEB LOUNGE сертификат"></a>
+</p>
+
 
 # Coursera
 **[Профиль](https://www.coursera.org/user/96cadbfccc22653f3529150e46382080)**
