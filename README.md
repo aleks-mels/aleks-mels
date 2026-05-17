@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#qa-engineer">
+  <a href="#aleksandra-melikhova---manual-qa-engineer">
     <img src="https://img.shields.io/badge/🇬🇧 English-blue?style=for-the-badge">
   </a>
 </p>
