@@ -283,13 +283,11 @@ I enjoy collecting educational achievements and experimenting with different app
 
 </p>
 
-<
 <p align="center">
   <a href="#qa-инженер">
     <img src="https://img.shields.io/badge/🇷🇺 Русский-blue?style=for-the-badge">
   </a>
 </p>
->
 
 [![codewars](https://www.codewars.com/users/aleks-mels/badges/micro)](https://www.codewars.com/users/aleks-mels)
 ![](https://komarev.com/ghpvc/?username=aleks-mels)
