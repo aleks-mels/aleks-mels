@@ -284,7 +284,7 @@ I enjoy collecting educational achievements and experimenting with different app
 </p>
 
 <p align="center">
-  <a href="#qa-инженер">
+  <a href="#александра-мелихова---manual-qa-инженер">
     <img src="https://img.shields.io/badge/🇷🇺 Русский-blue?style=for-the-badge">
   </a>
 </p>
