@@ -1,9 +1,8 @@
-<!--<p align="center">
+<p align="center">
   <a href="#qa-engineer">
     <img src="https://img.shields.io/badge/🇬🇧 English-blue?style=for-the-badge">
   </a>
 </p>
--->
 
 # Александра Мелихова - Manual QA инженер
 
@@ -24,7 +23,6 @@ QA инженер с техническим и педагогическим бэ
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
@@ -47,38 +45,32 @@ QA инженер с техническим и педагогическим бэ
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- RU Resume (Google Drive) -->
-<a href="https://github.com/aleks-mels/QA-portfolio-ru/blob/main/CV_Melikhova_ru.pdf" title="Резюме (RU, PDF)" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"
-       width="48" height="48" alt="Резюме (RU) — PDF">
-</a>
-
+  <a href="https://github.com/aleks-mels/QA-portfolio-ru/blob/main/CV_Melikhova_ru.pdf" title="Резюме (RU, PDF)" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"
+         width="48" height="48" alt="Резюме (RU) — PDF">
+  </a>
 
 </p>
-
-
-
-
 
 ---
 
 # Технологии и инструменты
 
 ## Backend / API / Tools
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/python.png" title="Python" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML" width="48" height="48" />
-  
   <img src="https://github.com/user-attachments/assets/424d404a-afdd-4ff4-a5b3-bcb15ea02430" title="Swagger / OpenAPI" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/json.png" title="JSON" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/api.png" title="HTTP" width="48" height="48" />
-
   <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="Postman" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/lambda.png" title="LambdaTest" width="48" height="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" width="46" height="46" />
-  
 </p>
 
 ## Databases
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL" width="48" height="48" />
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" width="48" height="48" />
@@ -87,6 +79,7 @@ QA инженер с техническим и педагогическим бэ
 </p>
 
 ## DevOps / Infrastructure
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/ubuntu--v1.png" title="Ubuntu" width="48" height="48" />
@@ -95,14 +88,13 @@ QA инженер с техническим и педагогическим бэ
 </p>
 
 ## Management
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/jira.png" title="Jira" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/confluence.png" title="Confluence" width="48" height="48" />
   <img src="https://logosandtypes.com/wp-content/uploads/2022/04/miro.svg" title="Miro" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/trello.png" title="Trello" width="48" height="48" />
 </p>
-
-
 
 ---
 
@@ -114,8 +106,8 @@ QA инженер с техническим и педагогическим бэ
   </a>
 </p>
 
-
 ---
+
 # Курсы и сертификаты
 
 <p align="left">
@@ -149,14 +141,24 @@ QA инженер с техническим и педагогическим бэ
 
 </p>
 
-<!--
-# Aleksandra Melikhova QA Engineer
+---
 
-A QA Engineer with both technical and pedagogical background. Formally educated as a history teacher and special education pedagogue, with professional experience that includes technical support, work in the educational field, and participation in a 3D-printing startup. This combination shaped strong analytical thinking, the ability to quickly understand new systems, and a balanced perspective that considers both the user’s experience and the technical logic behind a product.
+<p align="center">
+  <a href="#manual-qa-engineer">
+    <img src="https://img.shields.io/badge/🇬🇧 English-blue?style=for-the-badge">
+  </a>
+</p>
 
-In testing, the main focus is on exploratory and acceptance testing: analyzing the behavior of web services, validating APIs, working with data, and preparing clear, structured test documentation. This approach helps to understand the product more deeply, identify edge cases, and improve quality where it matters most.
+# Aleksandra Melikhova - Manual QA Engineer
 
-The next goal is to build solid expertise in manual testing and gradually transition into test automation within the next year, expanding the technical stack and strengthening a systematic approach to product quality.
+QA Engineer with both technical and educational background. Formally educated as a historian and special education teacher. Professional experience includes technical support, teaching at a college (mechatronics and engineering graphics), as well as participation in a 3D-printing startup. This background shaped strong technical thinking, the ability to quickly understand new systems, and the skill to view any product from both the user’s and creator’s perspectives.
+
+The main focus in testing is exploratory and acceptance testing: analyzing web service logic, API validation, working with data, and preparing clear and structured test documentation. This approach allows for deeper product understanding, identification of non-standard scenarios, and quality improvement where it truly matters.
+
+The next goal is to build strong expertise in manual testing and gradually transition into automation within the next year by expanding the technical stack and developing a systematic approach to quality assurance.
+
+I enjoy collecting educational achievements and experimenting with different approaches to self-education.
+
 <p align="center">
   <a href="https://www.upwork.com/freelancers/ormviking" target="_blank">
     <img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=Upwork&logoColor=white" />
@@ -171,59 +173,58 @@ The next goal is to build solid expertise in manual testing and gradually transi
 
 # Resume
 
--->
-<!--
 <p align="center">
+
   <!-- LinkedIn -->
-  <!--
-  <a href="YOUR_LINKEDIN_URL" title="LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/ormviking/" title="LinkedIn" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png"
-         width="48" height="48" alt="Резюме LinkedIn">
+         width="48" height="48" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- HeadHunter -->
- <!--  
   <a href="https://hh.ru/resume/2f6cf83dff0f8861970039ed1f69553768627a" title="HeadHunter" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
-         width="48" height="48" alt="Резюме HeadHunter">
+         width="48" height="48" alt="HeadHunter">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- RU Resume (Google Drive) -->
- <!--  
-  <a href="YOUR_RU_RESUME_DRIVE_URL" title="Резюме (RU)" target="_blank">
-    <img src="https://img.icons8.com/color/48/google-drive--v2.png"
-         width="48" height="48" alt="Резюме (RU)">
-  </a>
-</p>
--->
 
-<!--
+  <!-- RU Resume (Google Drive) -->
+  <a href="https://github.com/aleks-mels/QA-portfolio-ru/blob/main/CV_Melikhova_ru.pdf" title="Resume (RU, PDF)" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"
+         width="48" height="48" alt="Resume (RU) — PDF">
+  </a>
+
+</p>
+
+---
+
 # Tech Stack & Tools
 
 ## Backend / API / Tools
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/python.png" title="Python" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/html-5.png" title="HTML" width="48" height="48" />
-  
   <img src="https://github.com/user-attachments/assets/424d404a-afdd-4ff4-a5b3-bcb15ea02430" title="Swagger / OpenAPI" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/json.png" title="JSON" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/api.png" title="HTTP" width="48" height="48" />
-
   <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="Postman" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/lambda.png" title="LambdaTest" width="48" height="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" width="46" height="46" />
-  
 </p>
 
 ## Databases
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL" width="48" height="48" />
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" width="48" height="48" />
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" title="DBeaver" width="48" height="48" />
 </p>
 
 ## DevOps / Infrastructure
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/ubuntu--v1.png" title="Ubuntu" width="48" height="48" />
@@ -232,14 +233,16 @@ The next goal is to build solid expertise in manual testing and gradually transi
 </p>
 
 ## Management
+
 <p align="left">
   <img src="https://img.icons8.com/color/48/jira.png" title="Jira" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/confluence.png" title="Confluence" width="48" height="48" />
   <img src="https://logosandtypes.com/wp-content/uploads/2022/04/miro.svg" title="Miro" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/trello.png" title="Trello" width="48" height="48" />
 </p>
 
 ---
-<!--
+
 # Portfolio
 
 <p align="left">
@@ -247,7 +250,6 @@ The next goal is to build solid expertise in manual testing and gradually transi
     <img src="https://img.shields.io/badge/Open_Portfolio-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
@@ -259,7 +261,7 @@ The next goal is to build solid expertise in manual testing and gradually transi
   </a>
 </p>
 
-
+---
 
 # Contacts
 
@@ -280,14 +282,14 @@ The next goal is to build solid expertise in manual testing and gradually transi
   </a>
 
 </p>
--->
-<!--
+
+<
 <p align="center">
   <a href="#qa-инженер">
     <img src="https://img.shields.io/badge/🇷🇺 Русский-blue?style=for-the-badge">
   </a>
 </p>
--->
+>
+
 [![codewars](https://www.codewars.com/users/aleks-mels/badges/micro)](https://www.codewars.com/users/aleks-mels)
 ![](https://komarev.com/ghpvc/?username=aleks-mels)
-
