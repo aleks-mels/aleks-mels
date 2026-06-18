@@ -183,17 +183,17 @@ I enjoy collecting educational achievements and experimenting with different app
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- HeadHunter -->
-  <a href="https://hh.ru/resume/2f6cf83dff0f8861970039ed1f69553768627a" title="HeadHunter" target="_blank">
+  <!--a href="https://hh.ru/resume/2f6cf83dff0f8861970039ed1f69553768627a" title="HeadHunter" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
          width="48" height="48" alt="HeadHunter">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- RU Resume (Google Drive) -->
-  <a href="https://github.com/aleks-mels/QA-portfolio-ru/blob/main/CV_Melikhova_ru.pdf" title="Resume (RU, PDF)" target="_blank">
+  <!--a href="https://github.com/aleks-mels/QA-portfolio-ru/blob/main/CV_Melikhova_ru.pdf" title="Resume (RU, PDF)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"
          width="48" height="48" alt="Resume (RU) — PDF">
-  </a>
+  </a-->
 
 </p>
 
