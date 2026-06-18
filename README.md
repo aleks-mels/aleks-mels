@@ -38,14 +38,14 @@ QA инженер с техническим и педагогическим бэ
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- HeadHunter -->
-  <a href="https://hh.ru/resume/2f6cf83dff0f8861970039ed1f69553768627a" title="HeadHunter" target="_blank">
+  <a href="https://hh.ru/resume/3714e8b7ff1027e17b0039ed1f574f4f4e3757" title="HeadHunter" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png"
          width="48" height="48" alt="HeadHunter">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- RU Resume (Google Drive) -->
-  <a href="https://github.com/aleks-mels/QA-portfolio-ru/blob/main/CV_Melikhova_ru.pdf" title="Резюме (RU, PDF)" target="_blank">
+  <a href="https://drive.google.com/file/d/1WUNbUWHfHJtyGOUFTNTWYsvFecCHX0Pa/view?usp=sharing" title="Резюме (RU, PDF)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg"
          width="48" height="48" alt="Резюме (RU) — PDF">
   </a>
