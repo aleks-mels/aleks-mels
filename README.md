@@ -52,12 +52,12 @@ QA инженер с техническим и педагогическим бэ
   &nbsp;&nbsp;
 
   <a href="https://www.fl.ru/" target="_blank">
-    <img src="https://img.shields.io/badge/-FL.ru-7ac143?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FL.ru-0b8f3a?style=flat&logoColor=white" />
   </a>
   &nbsp;&nbsp;
 
   <a href="https://kwork.ru/seller" target="_blank">
-    <img src="https://img.shields.io/badge/-Kwork-04b70a?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kwork-ff8a00?style=flat&logoColor=white" />
   </a>
 </p>
 
