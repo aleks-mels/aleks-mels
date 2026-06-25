@@ -35,28 +35,18 @@ QA инженер с техническим и педагогическим бэ
     <img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=Upwork&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aleksmels/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/ormviking" target="_blank">
-    <img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=Upwork&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/aleksmels/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white" />
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://www.fl.ru/" target="_blank">
+  <a href="https://www.fl.ru/users/orm-viking/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-FL.ru-0b8f3a?style=flat&logoColor=white" />
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://kwork.ru/seller" target="_blank">
+  <a href="https://kwork.ru/user/orm-viking" target="_blank">
     <img src="https://img.shields.io/badge/-Kwork-ff8a00?style=flat&logoColor=white" />
   </a>
 </p>
