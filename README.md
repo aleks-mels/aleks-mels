@@ -7,6 +7,14 @@
 # Александра Мелихова - Manual QA инженер
 
 > **[Ищу работу Manual QA в русскоязычной команде.](#резюме)**
+<p align="center">
+  <img src="https://img.shields.io/badge/Manual_QA-2f81f7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web-238636?style=flat-square" />
+  <img src="https://img.shields.io/badge/API-8957e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-d29922?style=flat-square" />
+  <img src="https://img.shields.io/badge/Test_Documentation-6e7681?style=flat-square" />
+  <img src="https://img.shields.io/badge/E--commerce-da3633?style=flat-square" />
+</p>
 
 QA инженер с техническим и педагогическим бэкграундом. По образованию - историк и педагог-дефектолог. В профессиональном опыте были и техническая поддержка, и работа преподавателем в колледже (мехатроника и инженерная графика), а также участие в стартапе (3D-печать). Такой путь сформировал техническое мышление, умение быстро разбираться в новых системах и смотреть на любой продукт одновременно глазами пользователя и создателя.
 
