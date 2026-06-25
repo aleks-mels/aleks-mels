@@ -40,6 +40,24 @@ QA инженер с техническим и педагогическим бэ
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/ormviking" target="_blank">
+    <img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat&logo=Upwork&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aleksmels/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="ССЫЛКА_НА_FL" target="_blank">
+    <img src="https://img.shields.io/badge/-FL.ru-00aeef?style=flat&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="ССЫЛКА_НА_KWORK" target="_blank">
+    <img src="https://img.shields.io/badge/-Kwork-04b70a?style=flat&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 # Резюме
