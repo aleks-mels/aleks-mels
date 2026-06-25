@@ -79,6 +79,9 @@ QA инженер с техническим и педагогическим бэ
 
 </p>
 
+<p align="center"> <a href="https://www.linkedin.com/in/aleksmels/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-резюме-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp;&nbsp; <a href="https://hh.ru/resume/3714e8b7ff1027e17b0039ed1f574f4f4e3757" target="_blank"> <img src="https://img.shields.io/badge/HeadHunter-резюме-D6001C?style=for-the-badge" /> </a> &nbsp;&nbsp; <a href="https://drive.google.com/file/d/1WUNbUWHfHJtyGOUFTNTWYsvFecCHX0Pa/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/PDF-резюме-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /> </a> </p>
+
+
 ---
 
 # Технологии и инструменты
