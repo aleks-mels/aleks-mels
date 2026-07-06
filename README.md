@@ -50,9 +50,11 @@ QA инженер с техническим и педагогическим бэ
     <img src="https://img.shields.io/badge/-Kwork-ff8a00?style=flat&logoColor=white" />
   </a>
 </p>
+<p align="center">
 <a href="https://mygamelist.club/orm_viking" target="_blank">
   <img src="https://img.shields.io/badge/MyGameList-6A5ACD?style=for-the-badge" />
 </a>
+</p>
 ---
 
 # Резюме
