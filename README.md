@@ -87,7 +87,7 @@ QA инженер с техническим и педагогическим бэ
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/HTTP-005C9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/cURL-API%20CLI-073551?style=for-the-badge&logo=curl&logoColor=white" />
+  <img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/LambdaTest-111111?style=for-the-badge&logo=lambdatest&logoColor=white" />
