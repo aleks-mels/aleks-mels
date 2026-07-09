@@ -26,14 +26,6 @@
     >
   </a>
 
-  <a href="https://stepik.org/cert/3113321">
-    <img 
-      src="https://img.shields.io/badge/DB-Введение%20в%20базы%20данных-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
-      title="Введение в базы данных | Computer Science Center (CS центр)"
-      alt="Введение в базы данных | Computer Science Center (CS центр)"
-    >
-  </a>
-
   <a href="https://stepik.org/cert/3119786">
     <img 
       src="https://img.shields.io/badge/SQL-SQL%20Start-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
@@ -50,7 +42,18 @@
     >
   </a>
 
-  <a href="https://stepik.org/cert/3199052">
+
+</p>
+
+<p>
+    <a href="https://stepik.org/cert/3113321">
+    <img 
+      src="https://img.shields.io/badge/DB-Введение%20в%20базы%20данных-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
+      title="Введение в базы данных | Computer Science Center (CS центр)"
+      alt="Введение в базы данных | Computer Science Center (CS центр)"
+    >
+  </a>
+    <a href="https://stepik.org/cert/3199052">
     <img 
       src="https://img.shields.io/badge/DB-Введение%20в%20базы%20данных-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
       title="Введение в базы данных | Высшая школа экономики (НИУ ВШЭ)"
@@ -58,7 +61,6 @@
     >
   </a>
 </p>
-
 
 ## Тестирование
 
