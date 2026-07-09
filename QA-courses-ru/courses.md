@@ -94,45 +94,51 @@
 
 <p align="left">
   <a href="https://stepik.org/cert/2910255">
-    <img src="https://img.shields.io/badge/SQL-Ирина%20Selectовна-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" title="Введение в SQL | Ирина Selectовна" alt="Введение в SQL | Ирина Selectовна">
-  </a>
-  <a href="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20SQL.png">
-    <img src="https://img.shields.io/badge/view-certificate-555555?style=for-the-badge" alt="Open certificate image">
+    <img 
+      src="https://img.shields.io/badge/SQL-Введение%20в%20SQL-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
+      title="Введение в SQL | Ирина Selectовна"
+      alt="Введение в SQL | Ирина Selectовна"
+    >
   </a>
 
   <a href="https://stepik.org/cert/2908175">
-    <img src="https://img.shields.io/badge/SQL-IT%20Guru-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" title="SQL Introduction | IT Guru" alt="SQL Introduction | IT Guru">
-  </a>
-  <a href="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/SQL%20Introduction.png">
-    <img src="https://img.shields.io/badge/view-certificate-555555?style=for-the-badge" alt="Open certificate image">
+    <img 
+      src="https://img.shields.io/badge/SQL-SQL%20Introduction-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
+      title="SQL Introduction | IT Guru"
+      alt="SQL Introduction | IT Guru"
+    >
   </a>
 
   <a href="https://stepik.org/cert/3113321">
-    <img src="https://img.shields.io/badge/DB-CS%20Center-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" title="Введение в базы данных | Computer Science Center" alt="Введение в базы данных | Computer Science Center">
-  </a>
-  <a href="https://raw.githubusercontent.com/aleks-mels/aleks-mels/main/QA-courses-ru/certificates/logo/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png">
-    <img src="https://img.shields.io/badge/view-certificate-555555?style=for-the-badge" alt="Open certificate image">
+    <img 
+      src="https://img.shields.io/badge/DB-Введение%20в%20базы%20данных-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
+      title="Введение в базы данных | Computer Science Center (CS центр)"
+      alt="Введение в базы данных | Computer Science Center (CS центр)"
+    >
   </a>
 
   <a href="https://stepik.org/cert/3119786">
-    <img src="https://img.shields.io/badge/SQL-Николай%20Ефимов-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" title="SQL Start | Николай Ефимов" alt="SQL Start | Николай Ефимов">
-  </a>
-  <a href="https://stepik.org/certificate/c9515a425f3fc73acf82a9c8687f06f38691546e.png?resolution=medium">
-    <img src="https://img.shields.io/badge/view-certificate-555555?style=for-the-badge" alt="Open certificate image">
+    <img 
+      src="https://img.shields.io/badge/SQL-SQL%20Start-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
+      title="SQL Start | Николай Ефимов"
+      alt="SQL Start | Николай Ефимов"
+    >
   </a>
 
   <a href="https://stepik.org/cert/3190651">
-    <img src="https://img.shields.io/badge/SQL-Pragmatic%20Programmer-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" title="SQL Практикум Основы | Pragmatic Programmer" alt="SQL Практикум Основы | Pragmatic Programmer">
-  </a>
-  <a href="https://stepik.org/certificate/453d39ebd70f385fbb6508609c26cb342ecda7ed.png?resolution=medium">
-    <img src="https://img.shields.io/badge/view-certificate-555555?style=for-the-badge" alt="Open certificate image">
+    <img 
+      src="https://img.shields.io/badge/SQL-SQL%20Практикум%20Основы-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
+      title="SQL Практикум Основы | Pragmatic Programmer"
+      alt="SQL Практикум Основы | Pragmatic Programmer"
+    >
   </a>
 
   <a href="https://stepik.org/cert/3199052">
-    <img src="https://img.shields.io/badge/DB-НИУ%20ВШЭ-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" title="Введение в базы данных | НИУ ВШЭ" alt="Введение в базы данных | НИУ ВШЭ">
-  </a>
-  <a href="https://stepik.org/certificate/caee67f71c28bace842bd8f238900f0ff258d1e2.png?resolution=medium">
-    <img src="https://img.shields.io/badge/view-certificate-555555?style=for-the-badge" alt="Open certificate image">
+    <img 
+      src="https://img.shields.io/badge/DB-Введение%20в%20базы%20данных-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
+      title="Введение в базы данных | Высшая школа экономики (НИУ ВШЭ)"
+      alt="Введение в базы данных | Высшая школа экономики (НИУ ВШЭ)"
+    >
   </a>
 </p>
 
@@ -141,17 +147,19 @@
 
 <p align="left">
   <a href="https://stepik.org/cert/2958382">
-    <img src="https://img.shields.io/badge/QA-BASIC-2E8B57?style=for-the-badge&logo=testinglibrary&logoColor=white" title="Тестирование ПО с нуля. Теория + Практика. Уровень BASIC" alt="Тестирование ПО с нуля. Теория + Практика. Уровень BASIC">
-  </a>
-  <a href="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%9E%20%D1%81%20%D0%BD%D1%83%D0%BB%D1%8F.%20%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%20%2B%20%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.%20%D0%A3%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%20BASIC.png">
-    <img src="https://img.shields.io/badge/view-certificate-555555?style=for-the-badge" alt="Open certificate image">
+    <img 
+      src="https://img.shields.io/badge/QA-Тестирование%20ПО%20с%20нуля-2E8B57?style=for-the-badge&logo=testinglibrary&logoColor=white" 
+      title="Тестирование ПО с нуля. Теория + Практика. Уровень BASIC"
+      alt="Тестирование ПО с нуля. Теория + Практика. Уровень BASIC"
+    >
   </a>
 
   <a href="https://stepik.org/cert/3201627">
-    <img src="https://img.shields.io/badge/QA-Кавычки-2E8B57?style=for-the-badge&logo=testinglibrary&logoColor=white" title="Вселенная тестирования, или Как стать тестировщиком | Кавычки" alt="Вселенная тестирования, или Как стать тестировщиком | Кавычки">
-  </a>
-  <a href="https://stepik.org/certificate/8cb4a012adbd8a1beee5b95eb8da7db608dac485.png?resolution=medium">
-    <img src="https://img.shields.io/badge/view-certificate-555555?style=for-the-badge" alt="Open certificate image">
+    <img 
+      src="https://img.shields.io/badge/QA-Вселенная%20тестирования-2E8B57?style=for-the-badge&logo=testinglibrary&logoColor=white" 
+      title="Вселенная тестирования, или Как стать тестировщиком | Кавычки"
+      alt="Вселенная тестирования, или Как стать тестировщиком | Кавычки"
+    >
   </a>
 </p>
 
@@ -160,17 +168,19 @@
 
 <p align="left">
   <a href="https://stepik.org/cert/3062556">
-    <img src="https://img.shields.io/badge/Postman-Ниндзя-EF5B25?style=for-the-badge&logo=postman&logoColor=white" title="Postman-ниндзя с нуля до автотестов" alt="Postman-ниндзя с нуля до автотестов">
-  </a>
-  <a href="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Postman-%D0%BD%D0%B8%D0%BD%D0%B4%D0%B7%D1%8F%20c%20%D0%BD%D1%83%D0%BB%D1%8F%20%D0%B4%D0%BE%20%D0%B0%D0%B2%D1%82%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2.png">
-    <img src="https://img.shields.io/badge/view-certificate-555555?style=for-the-badge" alt="Open certificate image">
+    <img 
+      src="https://img.shields.io/badge/Postman-Ниндзя%20с%20нуля%20до%20автотестов-EF5B25?style=for-the-badge&logo=postman&logoColor=white" 
+      title="Postman-ниндзя с нуля до автотестов"
+      alt="Postman-ниндзя с нуля до автотестов"
+    >
   </a>
 
   <a href="https://stepik.org/cert/3202671">
-    <img src="https://img.shields.io/badge/Postman-API%20Testing-EF5B25?style=for-the-badge&logo=postman&logoColor=white" title="Тестирование ПО: Postman для тестирования API | Константин Барзаковский" alt="Тестирование ПО: Postman для тестирования API | Константин Барзаковский">
-  </a>
-  <a href="https://stepik.org/certificate/b463ec3fad9c7281e16d3bead798ab0d2b29c876.png?resolution=low">
-    <img src="https://img.shields.io/badge/view-certificate-555555?style=for-the-badge" alt="Open certificate image">
+    <img 
+      src="https://img.shields.io/badge/Postman-Тестирование%20API-EF5B25?style=for-the-badge&logo=postman&logoColor=white" 
+      title="Тестирование ПО: Postman для тестирования API | Константин Барзаковский"
+      alt="Тестирование ПО: Postman для тестирования API | Константин Барзаковский"
+    >
   </a>
 </p>
 
@@ -179,10 +189,11 @@
 
 <p align="left">
   <a href="https://stepik.org/cert/3203615">
-    <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-WEB%20LOUNGE-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" title="HTML CSS JS | WEB LOUNGE" alt="HTML CSS JS | WEB LOUNGE">
-  </a>
-  <a href="https://stepik.org/certificate/4fa12de75766d41bdb42f8825508591ed3e2087c.png?resolution=medium">
-    <img src="https://img.shields.io/badge/view-certificate-555555?style=for-the-badge" alt="Open certificate image">
+    <img 
+      src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-WEB%20LOUNGE-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" 
+      title="HTML CSS JS | WEB LOUNGE"
+      alt="HTML CSS JS | WEB LOUNGE"
+    >
   </a>
 </p>
 ---------
