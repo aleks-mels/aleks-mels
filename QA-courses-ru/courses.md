@@ -163,6 +163,8 @@
   </a>
   <a href="https://stepik.org/certificate/4fa12de75766d41bdb42f8825508591ed3e2087c.png?resolution=medium">image</a>
 </p>
+---------
+
 # Coursera
 **[Профиль](https://www.coursera.org/user/96cadbfccc22653f3529150e46382080)**
 
