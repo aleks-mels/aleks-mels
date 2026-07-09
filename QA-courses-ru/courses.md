@@ -7,89 +7,6 @@
 
 **Сертификаты**
 
-*SQL*
-<p align="left">
-  <a href="https://stepik.org/cert/2910255">
-    <img 
-      src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20SQL.png" 
-      width="150"
-      title="Введение в SQL | Ирина Selectовна"
-      alt="Введение в SQL Ирина Selectовна Сертификат"
-    >
-  </a>
-
-  <a href="https://stepik.org/cert/2908175">
-    <img 
-      src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/SQL%20Introduction.png" 
-      width="150"
-      title="SQL Introduction | IT Guru"
-      alt="SQL Introduction IT Guru Сертификат"
-    >
-  </a>
-  <a href="https://stepik.org/cert/3113321">
-    <img 
-      src="https://github.com/aleks-mels/aleks-mels/blob/main/QA-courses-ru/certificates/logo/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png" 
-      width="150"
-      title="Введение в базы данных | Computer Science Center (CS центр)"
-      alt="Введение в базы данных | Computer Science Center (CS центр) Сертификат"
-    >
-  </a>
-
-<p align="left">
-  <a href="https://stepik.org/cert/3119786">
-    <img 
-      src="https://stepik.org/certificate/c9515a425f3fc73acf82a9c8687f06f38691546e.png?resolution=medium" 
-      width="150"
-      title="SQL Start | Николай Ефимов"
-      alt="SQL Start | Николай Ефимов Сертификат"
-    >
-  </a>
-  <a href="https://stepik.org/cert/3190651">
-    <img 
-      src="https://stepik.org/certificate/453d39ebd70f385fbb6508609c26cb342ecda7ed.png?resolution=medium" 
-      width="150"
-      title="SQL Практикум Основы | Pragmatic Programmer"
-      alt="SQL Практикум Основы | Pragmatic Programmer сертификат"
-    >
-  </a>
-  <a href="https://stepik.org/cert/3199052">
-    <img 
-      src="https://stepik.org/certificate/caee67f71c28bace842bd8f238900f0ff258d1e2.png?resolution=medium" 
-      width="150"
-      title="Введение в базы данных | Высшая школа экономики (НИУ ВШЭ)"
-      alt="Введение в базы данных | Высшая школа экономики (НИУ ВШЭ) сертификат"
-    >
-  </a>
-</p>
-
-*Тестирование*
-<p align="left">
-  <a href="https://stepik.org/cert/2958382"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9F%D0%9E%20%D1%81%20%D0%BD%D1%83%D0%BB%D1%8F.%20%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%20%2B%20%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0.%20%D0%A3%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%20BASIC.png" width="150"></a>
-    <a href="https://stepik.org/cert/3201627">
-      <img src="https://stepik.org/certificate/8cb4a012adbd8a1beee5b95eb8da7db608dac485.png?resolution=medium" width="150"
-        title="Вселенная тестирования, или Как стать тестировщиком | Кавычки"
-        alt="Вселенная тестирования, или Как стать тестировщиком | Кавычки сертификат"></a>
-</p>
-
-*Инструменты*
-<p align="left">
-<a href="https://stepik.org/cert/3062556"><img src="https://raw.githubusercontent.com/aleks-mels/aleks-mels/refs/heads/main/QA-courses-ru/certificates/logo/Postman-%D0%BD%D0%B8%D0%BD%D0%B4%D0%B7%D1%8F%20c%20%D0%BD%D1%83%D0%BB%D1%8F%20%D0%B4%D0%BE%20%D0%B0%D0%B2%D1%82%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2.png" width="150"></a>
-<a href="https://stepik.org/cert/3202671">
-      <img src="https://stepik.org/certificate/b463ec3fad9c7281e16d3bead798ab0d2b29c876.png?resolution=low" width="150"
-        title="Тестирование ПО: Postman для тестирования API | Константин Барзаковский"
-        alt="Тестирование ПО: Postman для тестирования API | Константин Барзаковский сертификат"></a>
-</p>
-
-*Языки программирования*
-
-<p align="left">
-<a href="https://stepik.org/cert/3203615">
-      <img src="https://stepik.org/certificate/4fa12de75766d41bdb42f8825508591ed3e2087c.png?resolution=medium" width="150"
-        title="HTML CSS JS | WEB LOUNGE"
-        alt="HTML CSS JS | WEB LOUNGE сертификат"></a>
-</p>
-
-выалывоа
 ## SQL
 
 <p align="left">
@@ -190,7 +107,7 @@
 <p align="left">
   <a href="https://stepik.org/cert/3203615">
     <img 
-      src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-WEB%20LOUNGE-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" 
+      src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-HTML%20CSS%20JS-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" 
       title="HTML CSS JS | WEB LOUNGE"
       alt="HTML CSS JS | WEB LOUNGE"
     >
