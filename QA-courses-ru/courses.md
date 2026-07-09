@@ -113,7 +113,16 @@
     >
   </a>
 </p>
----------
+<p align="left">
+  <a href="https://stepik.org/cert/3297284">
+    <img 
+      src="https://img.shields.io/badge/Python-Добрый%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
+      title="Добрый Python | Беляков Константин"
+      alt="Добрый Python | Беляков Константин"
+    >
+  </a>
+</p>
+
 
 # Coursera
 **[Профиль](https://www.coursera.org/user/96cadbfccc22653f3529150e46382080)**
