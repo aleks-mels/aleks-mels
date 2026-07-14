@@ -42,18 +42,26 @@
     >
   </a>
 
+  <a href="https://stepik.org/cert/3302544">
+    <img 
+      src="https://img.shields.io/badge/SQL-SQL%20Практикум%20SELECT--запросы-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
+      title="SQL практикум. SELECT-запросы | Pragmatic Programmer"
+      alt="SQL практикум. SELECT-запросы | Pragmatic Programmer"
+    >
+  </a>
 
 </p>
 
 <p>
-    <a href="https://stepik.org/cert/3113321">
+  <a href="https://stepik.org/cert/3113321">
     <img 
       src="https://img.shields.io/badge/DB-Введение%20в%20базы%20данных-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
       title="Введение в базы данных | Computer Science Center (CS центр)"
       alt="Введение в базы данных | Computer Science Center (CS центр)"
     >
   </a>
-    <a href="https://stepik.org/cert/3199052">
+
+  <a href="https://stepik.org/cert/3199052">
     <img 
       src="https://img.shields.io/badge/DB-Введение%20в%20базы%20данных-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
       title="Введение в базы данных | Высшая школа экономики (НИУ ВШЭ)"
@@ -61,7 +69,6 @@
     >
   </a>
 </p>
-
 ## Тестирование
 
 <p align="left">
