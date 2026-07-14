@@ -149,6 +149,15 @@ QA инженер с техническим и педагогическим бэ
   </a>
 </p>
 
+# Прочитанные книги
+
+<p align="left">
+  <a href="https://github.com/aleks-mels/aleks-mels/blob/main/books/books.md" target="_blank">
+    <img src="https://img.shields.io/badge/Открыть список-1f6feb?style=for-the-badge&logo=bookstack&logoColor=white" />
+  </a>
+</p>
+
+
 ---
 
 # Контакты
