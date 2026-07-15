@@ -137,10 +137,6 @@
 # Coursera
 **[Профиль](https://www.coursera.org/user/96cadbfccc22653f3529150e46382080)**
 
-**Сертификаты**
-
-# Datacamp
-**[Профиль](https://www.datacamp.com/portfolio/aleksmels)**
 
 **Сертификаты**
 
