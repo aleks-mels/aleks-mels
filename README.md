@@ -123,11 +123,17 @@ QA инженер с техническим и педагогическим бэ
 
 <p align="left">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black" />
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitrix24-00AEEF?style=for-the-badge&logo=bitrix24&logoColor=white" />
+  <img src="https://img.shields.io/badge/Planfix-2E8B57?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Hive-F5C400?style=for-the-badge&logo=hive&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bitrix24-00AEEF?style=for-the-badge&logo=bitrix24&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ---
