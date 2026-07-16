@@ -152,12 +152,9 @@
 **[Профиль](https://www.coursera.org/user/96cadbfccc22653f3529150e46382080)**
 
 
-**Сертификаты**
-
 # w3schools
 **[Профиль](https://www.w3profile.com/AleksMels/)**
 
-**Сертификаты**
 
 # Credly
 **[Профиль](https://www.credly.com/users/aleks_mels/badges#credly)**
