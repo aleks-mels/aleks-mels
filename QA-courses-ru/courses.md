@@ -49,6 +49,13 @@
       alt="SQL практикум. SELECT-запросы | Pragmatic Programmer"
     >
   </a>
+  <a href="https://stepik.org/cert/3303898">
+    <img 
+      src="https://img.shields.io/badge/SQL-PRO%20SQL-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
+      title="PRO SQL | IRON PROGRAMMER"
+      alt="PRO SQL | IRON PROGRAMMER"
+    >
+  </a>
 
 </p>
 
