@@ -93,7 +93,7 @@ QA инженер с техническим и педагогическим бэ
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-## Backend / API
+## Development Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/LambdaTest-111111?style=for-the-badge&logo=lambdatest&logoColor=white" />
@@ -255,44 +255,65 @@ I enjoy collecting educational achievements and experimenting with different app
 
 # Tech Stack & Tools
 
-## Backend / API / Tools
+## Backend / API
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/python.png" title="Python" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML" width="48" height="48" />
-  <img src="https://github.com/user-attachments/assets/424d404a-afdd-4ff4-a5b3-bcb15ea02430" title="Swagger / OpenAPI" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/json.png" title="JSON" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/api.png" title="HTTP" width="48" height="48" />
-  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="Postman" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/lambda.png" title="LambdaTest" width="48" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="Visual Studio Code" width="46" height="46" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTTP-005C9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/cURL-073551?style=for-the-badge&logo=curl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+## Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/LambdaTest-111111?style=for-the-badge&logo=lambdatest&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ## Databases
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" width="48" height="48" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" width="48" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" title="DBeaver" width="48" height="48" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge" />
+</p>
+
+## UI / Design Review
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ## DevOps / Infrastructure
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/linux--v1.png" title="Linux" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/ubuntu--v1.png" title="Ubuntu" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/console.png" title="Bash" width="48" height="48" />
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" title="GitHub" width="48" height="48" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ## Management
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/jira.png" title="Jira" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/confluence.png" title="Confluence" width="48" height="48" />
-  <img src="https://logosandtypes.com/wp-content/uploads/2022/04/miro.svg" title="Miro" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/trello.png" title="Trello" width="48" height="48" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Planfix-2E8B57?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive-F5C400?style=for-the-badge&logo=hive&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bitrix24-00AEEF?style=for-the-badge&logo=bitrix24&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ---
