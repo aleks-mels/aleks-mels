@@ -55,6 +55,7 @@ QA инженер с техническим и педагогическим бэ
   <img src="https://img.shields.io/badge/MyGameList-6A5ACD?style=for-the-badge" />
 </a>
 </p>
+
 ---
 
 # Резюме
