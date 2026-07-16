@@ -75,6 +75,13 @@
       alt="Введение в базы данных | Высшая школа экономики (НИУ ВШЭ)"
     >
   </a>
+    <a href="https://stepik.org/cert/3303937">
+    <img 
+      src="https://img.shields.io/badge/DB-Свободное%20погружение%20в%20СУБД-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
+      title="Свободное погружение в СУБД | Computer Science Center (CS центр)"
+      alt="Свободное погружение в СУБД | Computer Science Center (CS центр)"
+    >
+  </a>
 </p>
 
 ## Тестирование
