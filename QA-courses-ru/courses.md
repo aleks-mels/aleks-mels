@@ -56,6 +56,13 @@
       alt="PRO SQL | IRON PROGRAMMER"
     >
   </a>
+  <a href="https://stepik.org/cert/3304785">
+    <img 
+      src="https://img.shields.io/badge/SQL-Марафон%20данных%20SQL%20%26%20Python-0A66C2?style=for-the-badge&logo=postgresql&logoColor=white" 
+      title="Марафон данных: первое знакомство с SQL и Python | LEFT JOIN Education"
+      alt="Марафон данных: первое знакомство с SQL и Python | LEFT JOIN Education"
+    >
+  </a>
 
 </p>
 
