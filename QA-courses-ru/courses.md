@@ -143,7 +143,16 @@
       alt="HTML CSS JS | WEB LOUNGE"
     >
   </a>
+
+  <a href="https://stepik.org/cert/3304968">
+    <img 
+      src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-HTML%20CSS%20JS%20(lite)-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white" 
+      title="HTML CSS JS (lite) | WEB LOUNGE"
+      alt="HTML CSS JS (lite) | WEB LOUNGE"
+    >
+  </a>
 </p>
+
 <p align="left">
   <a href="https://stepik.org/cert/3297284">
     <img 
