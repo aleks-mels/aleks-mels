@@ -161,8 +161,15 @@
       alt="Добрый Python | Беляков Константин"
     >
   </a>
-</p>
 
+  <a href="https://stepik.org/cert/3305440">
+    <img 
+      src="https://img.shields.io/badge/Python-Python%20—%20Модуль%201-3776AB?style=for-the-badge&logo=python&logoColor=white" 
+      title="Python — Модуль 1 | Alexey Kozhakin"
+      alt="Python — Модуль 1 | Alexey Kozhakin"
+    >
+  </a>
+</p>
 
 # Coursera
 **[Профиль](https://www.coursera.org/user/96cadbfccc22653f3529150e46382080)**
