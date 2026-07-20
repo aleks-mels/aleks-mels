@@ -174,7 +174,16 @@
 # Linkedin
 **[Профиль](https://www.linkedin.com/in/aleksmels/details/certifications/)**
 
+**Сертификаты**
 
+## SQL
+<a href="https://www.linkedin.com/learning/certificates/14e3d7fa2522309e7ace0c6974c52be35716950dc1c5986aedb08cc761443557?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-SQL%20for%20Data%20Analysis%20(2020)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="SQL for Data Analysis (2020) | LinkedIn&#10;Skills: Data Analysis, SQL"
+    alt="SQL for Data Analysis (2020) | LinkedIn"
+  >
+</a>
 
 # Coursera
 **[Профиль](https://www.coursera.org/user/96cadbfccc22653f3529150e46382080)**
