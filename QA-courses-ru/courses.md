@@ -171,6 +171,10 @@
   </a>
 </p>
 
+# Linkedin
+**[Профиль](https://www.linkedin.com/in/aleksmels/details/certifications/)**
+
+
 
 # Coursera
 **[Профиль](https://www.coursera.org/user/96cadbfccc22653f3529150e46382080)**
