@@ -185,6 +185,13 @@
     alt="SQL for Data Analysis (2020) | LinkedIn"
   >
 </a>
+<a href="https://www.linkedin.com/learning/certificates/23e16a26a79aacc5eb6a8282555009c7a9195c4e8cca4eb8439f326bd637c804?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-Explore%20a%20Career%20in%20SQL%20Development-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="Explore a Career in SQL Development | LinkedIn&#10;Skills: Data Analysis, SQL"
+    alt="Explore a Career in SQL Development | LinkedIn"
+  >
+</a>
 </p>
 
 # Coursera
