@@ -169,6 +169,14 @@
       alt="Python — Модуль 1 | Alexey Kozhakin"
     >
   </a>
+
+  <a href="https://stepik.org/cert/3306842">
+    <img 
+      src="https://img.shields.io/badge/Python-Поколение%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
+      title="Поколение Python: курс для начинающих | Поколение Python"
+      alt="Поколение Python: курс для начинающих | Поколение Python"
+    >
+  </a>
 </p>
 
 # Linkedin
