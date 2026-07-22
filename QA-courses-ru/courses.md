@@ -1,3 +1,4 @@
+<img width="140" height="26" alt="image" src="https://github.com/user-attachments/assets/8f477728-5c1e-4cce-98a5-f8bd65dd3028" />
 # Пройденные курсы
 
 С полным перечнем можно ознакомиться углубившись в профили. На странице представены только те сертификаты, которые относятся к QA|QC, либо информационным технологиям. И мои любимые и нелюбимые, одновременно, дипломы.
@@ -193,11 +194,20 @@
     alt="SQL for Data Analysis (2020) | LinkedIn"
   >
 </a>
+
 <a href="https://www.linkedin.com/learning/certificates/23e16a26a79aacc5eb6a8282555009c7a9195c4e8cca4eb8439f326bd637c804?trk=share_certificate">
   <img
     src="https://img.shields.io/badge/SQL-Explore%20a%20Career%20in%20SQL%20Development-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     title="Explore a Career in SQL Development | LinkedIn&#10;Skills: Database Development, SQL"
     alt="Explore a Career in SQL Development | LinkedIn"
+  >
+</a>
+
+<a href="https://www.linkedin.com/learning/certificates/ebbff3ebfaafa574e9bcaccaefe2c9c160d94dd6ce363fa7e394e41a0d03ed3c?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-SQL%20for%20Data%20Analysis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="SQL for Data Analysis | LinkedIn&#10;Skills: Data Analysis, SQL"
+    alt="SQL for Data Analysis | LinkedIn"
   >
 </a>
 </p>
