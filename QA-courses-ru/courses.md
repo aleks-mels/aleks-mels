@@ -210,6 +210,13 @@
     alt="SQL for Data Analysis | LinkedIn"
   >
 </a>
+<a href="https://www.linkedin.com/learning/certificates/14a307ad049a7689fc1e722f9ac1acbaa69b58719ff44aaa66665ccc1105d13e?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-SQL%20for%20Testers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="SQL for Testers | LinkedIn&#10;Skills: SQL, Database Testing"
+    alt="SQL for Testers | LinkedIn"
+  >
+</a>
 </p>
 
 # Coursera
