@@ -216,6 +216,13 @@
     alt="SQL for Testers | LinkedIn"
   >
 </a>
+<a href="https://www.linkedin.com/learning/certificates/aa604ceb913b90837d11848709bc7818e8edd0f1e1058108639b875c8fa955cd?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-SQL%20Essential%20Training-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="SQL Essential Training | LinkedIn&#10;Skills: SQL"
+    alt="SQL Essential Training | LinkedIn"
+  >
+</a>
 </p>
 
 # Coursera
