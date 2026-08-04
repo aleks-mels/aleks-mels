@@ -17,6 +17,9 @@
 ### 📊 Статистика
 
 - 📚 Прочитано книг: **2**
-- 📖 В процессе: **0**
+- 📖 В процессе: **1**
 - 🔄 Раздел регулярно обновляется.
 
+Список для чтения (в порядке добавления):
+1. Кент Бек (Kent Beck) «Test-Driven Development: By Example» (Addison-Wesley Professional, 2002) - классическая школа юнит-тестирования
+2. Стив Фримен (Steve Freeman) и Нат Прайс (Nat Pryce). «Growing Object-Oriented Software, Guided by Tests» (Addison-Wesley Professional, 2009) - лондонская школа юнит-тестирования
