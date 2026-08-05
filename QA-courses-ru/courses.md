@@ -223,6 +223,13 @@
     alt="SQL Essential Training | LinkedIn"
   >
 </a>
+<a href="https://www.linkedin.com/learning/certificates/d4b8d211ab8d895e49a22407a89120783cecaecfc86be45b743fb618f7326366?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-SQL%3A%20Data%20Reporting%20and%20Analysis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="SQL: Data Reporting and Analysis | LinkedIn&#10;Skills: Data Analysis, SQL"
+    alt="SQL: Data Reporting and Analysis | LinkedIn"
+  >
+</a>
 </p>
 
 # Coursera
