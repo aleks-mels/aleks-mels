@@ -244,6 +244,13 @@
     alt="SQL Queries Made Easy | LinkedIn"
   >
 </a>
+<a href="https://www.linkedin.com/learning/certificates/c17f98b6154b01d1defc915075b884823e21a140cac82a0a096903c0be3892db?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-Nail%20Your%20SQL%20Interview-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="Nail Your SQL Interview | LinkedIn&#10;Skills: Interview Preparation, SQL"
+    alt="Nail Your SQL Interview | LinkedIn"
+  >
+</a>
 </p>
 
 # Coursera
