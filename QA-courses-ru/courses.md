@@ -237,6 +237,13 @@
     alt="SQL Server Intelligence: Cracking the Code of Enterprise Data | LinkedIn"
   >
 </a>
+<a href="https://www.linkedin.com/learning/certificates/5133191b4f85e880178b6c78d87b6d90c0af4e9f4fe624acea3356d57b6012a5?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-SQL%20Queries%20Made%20Easy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="SQL Queries Made Easy | LinkedIn&#10;Skills: Database Queries, SQL"
+    alt="SQL Queries Made Easy | LinkedIn"
+  >
+</a>
 </p>
 
 # Coursera
