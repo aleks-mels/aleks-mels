@@ -230,6 +230,13 @@
     alt="SQL: Data Reporting and Analysis | LinkedIn"
   >
 </a>
+<a href="https://www.linkedin.com/learning/certificates/c6fb8948159782f0d8903dbc96f0c1fffbdee302d354037b3c5fe371c73da090?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-SQL%20Server%20Intelligence%3A%20Cracking%20the%20Code%20of%20Enterprise%20Data-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="SQL Server Intelligence: Cracking the Code of Enterprise Data | LinkedIn&#10;Skills: SQL"
+    alt="SQL Server Intelligence: Cracking the Code of Enterprise Data | LinkedIn"
+  >
+</a>
 </p>
 
 # Coursera
