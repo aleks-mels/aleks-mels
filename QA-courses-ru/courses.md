@@ -251,6 +251,41 @@
     alt="Nail Your SQL Interview | LinkedIn"
   >
 </a>
+<a href="https://www.linkedin.com/learning/certificates/179a838684a7a45c8d6a714b4397ba153d8c6340c90fcd71f8fc18ce927a2aa6?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-Finding%20New%20Career%20Paths%20with%20SQL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="Finding New Career Paths with SQL | LinkedIn&#10;Skills: Tech Career Skills, SQL, Career Path Planning"
+    alt="Finding New Career Paths with SQL | LinkedIn"
+  >
+</a>
+<a href="https://www.linkedin.com/learning/certificates/6c71a544647f7bb246b2f10a71d9df239852e5db951178d4f45aa2ce777e36fc?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-SQL%20Hands--On%20Practice%3A%20Solve%20Business%20Problems-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="SQL Hands-On Practice: Solve Business Problems | LinkedIn&#10;Skills: SQL"
+    alt="SQL Hands-On Practice: Solve Business Problems | LinkedIn"
+  >
+</a>
+<a href="https://www.linkedin.com/learning/certificates/2b0a3bf6827ae14e20e6570b8203dc9d754511007301fa7a99559e4993ca3bef?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-SQL%20Tips%20and%20Tricks%20for%20Data%20Science-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="SQL Tips and Tricks for Data Science | LinkedIn&#10;Skills: SQL"
+    alt="SQL Tips and Tricks for Data Science | LinkedIn"
+  >
+</a>
+<a href="https://www.linkedin.com/learning/certificates/c5f3b3401263f297fb371ebd46b5a75b542843da753884d1a598c59c0f57c714?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-Choosing%20a%20Database%3A%20PostgreSQL%2C%20MySQL%2C%20Mongo%2C%20and%20Cloud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="Choosing a Database: PostgreSQL, MySQL, Mongo, and Cloud | LinkedIn&#10;Skills: MongoDB, PostgreSQL, MySQL"
+    alt="Choosing a Database: PostgreSQL, MySQL, Mongo, and Cloud | LinkedIn"
+  >
+</a>
+<a href="https://www.linkedin.com/learning/certificates/db362644dda774d004e6f4f881c812a29d4a8ff04b8a91c092c6e4788e0cfcea?trk=share_certificate">
+  <img
+    src="https://img.shields.io/badge/SQL-NoSQL%20Essential%20Training-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    title="NoSQL Essential Training | LinkedIn&#10;Skills: NoSQL"
+    alt="NoSQL Essential Training | LinkedIn"
+  >
+</a>
 </p>
 
 # Coursera
