@@ -294,9 +294,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/learning/certificates/1b30b77a94ea17c2ae2b1d4594bb9025b1452ca2994edcfa584cdc3256b2c168?trk=share_certificate">
     <img 
-      src="https://img.shields.io/badge/JMeter-Advanced%20JMeter-2E8B57?style=for-the-badge&logo=apachejmeter&logoColor=white" 
-      title="Advanced JMeter"
-      alt="Advanced JMeter"
+      src="https://img.shields.io/badge/LinkedIn%20Learning-Advanced%20JMeter-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white" 
+      title="Advanced JMeter — LinkedIn Learning | Навыки: JMeter"
+      alt="Advanced JMeter — LinkedIn Learning | Навыки: JMeter"
     >
   </a>
 </p>
