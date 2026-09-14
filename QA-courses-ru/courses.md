@@ -301,7 +301,7 @@
   </a>
     <a href="https://www.linkedin.com/learning/certificates/e2f99785ce87f5202dac9eb8c47cb4a9f9b270a4cb762ab6ea112143d06ae1b9?trk=share_certificate">
     <img 
-      src="https://img.shields.io/badge/JMeter-Advanced%20JMeter-2E8B57?style=for-the-badge&logo=apachejmeter&logoColor=white" 
+      src="https://img.shields.io/badge/LinkedIn_Learning-5_Common_Test_Failures-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       title="5 Common Test Failures | LinkedIn Learning | Навыки: Quality Assurance Testing; Test Design"
       alt="5 Common Test Failures | LinkedIn Learning | Навыки: Quality Assurance Testing; Test Design"
     >
