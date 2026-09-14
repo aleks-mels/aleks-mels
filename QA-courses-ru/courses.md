@@ -1,4 +1,4 @@
-# Пройденные курсы
+<img width="97" height="26" alt="image" src="https://github.com/user-attachments/assets/2c4c0a6a-dff0-4e87-9892-b50c0a593c05" /># Пройденные курсы
 
 С полным перечнем можно ознакомиться углубившись в профили. На странице представены только те сертификаты, которые относятся к QA|QC, либо информационным технологиям. И мои любимые и нелюбимые, одновременно, дипломы.
 
@@ -297,6 +297,13 @@
       src="https://img.shields.io/badge/JMeter-Advanced%20JMeter-2E8B57?style=for-the-badge&logo=apachejmeter&logoColor=white" 
       title="Advanced JMeter | LinkedIn Learning | Навыки: JMeter"
       alt="Advanced JMeter | LinkedIn Learning | Навыки: JMeter"
+    >
+  </a>
+    <a href="https://www.linkedin.com/learning/certificates/e2f99785ce87f5202dac9eb8c47cb4a9f9b270a4cb762ab6ea112143d06ae1b9?trk=share_certificate">
+    <img 
+      src="https://img.shields.io/badge/JMeter-Advanced%20JMeter-2E8B57?style=for-the-badge&logo=apachejmeter&logoColor=white" 
+      title="5 Common Test Failures | LinkedIn Learning | Навыки: Quality Assurance Testing; Test Design"
+      alt="5 Common Test Failures | LinkedIn Learning | Навыки: Quality Assurance Testing; Test Design"
     >
   </a>
 </p>
